@@ -1,0 +1,215 @@
+1 word 14
+1 name 11
+1 company 7
+2 company name 5
+2 word name 4
+2 name word 3
+1 outside 3
+1 words 3
+1 text 3
+1 image 2
+1 sort 2
+1 xyz 2
+1 corporation 2
+2 microsoft corporation 2
+1 microsoft 2
+2 name outside 2
+3 company name outside 2
+3 name word name 2
+3 outside company name 2
+2 outside company 2
+1 label 2
+1 example 2
+2 words word 2
+3 word words word 2
+2 word words 2
+1 recognition 2
+1 color 1
+2 pixel color 1
+1 pixel 1
+3 pixels pixel color 1
+2 pixels pixel 1
+1 pixels 1
+3 image pixels pixel 1
+2 image pixels 1
+3 recognition image pixels 1
+2 recognition image 1
+3 image recognition image 1
+2 image recognition 1
+3 row image recognition 1
+2 row image 1
+1 row 1
+3 fourth row image 1
+2 fourth row 1
+1 fourth 1
+3 look fourth row 1
+2 look fourth 1
+1 look 1
+3 similarly look fourth 1
+2 similarly look 1
+1 similarly 1
+3 labels similarly look 1
+2 labels similarly 1
+1 labels 1
+3 finding labels similarly 1
+2 finding labels 1
+1 finding 1
+3 algorithm finding labels 1
+2 algorithm finding 1
+1 algorithm 1
+3 learning algorithm finding 1
+2 learning algorithm 1
+1 learning 1
+3 machine learning algorithm 1
+2 machine learning 1
+1 machine 1
+3 text machine learning 1
+2 text machine 1
+3 names text machine 1
+2 names text 1
+1 names 1
+3 company names text 1
+2 company names 1
+3 label company names 1
+2 label company 1
+3 convention label company 1
+2 convention label 1
+1 convention 1
+3 sort convention label 1
+2 sort convention 1
+3 sort sort convention 1
+2 sort sort 1
+3 outside sort sort 1
+2 outside sort 1
+3 name outside sort 1
+3 awkward company name 1
+2 awkward company 1
+1 awkward 1
+3 word awkward company 1
+2 word awkward 1
+3 name word awkward 1
+3 word name word 1
+3 company name word 1
+3 xyz company name 1
+2 xyz company 1
+3 meant xyz company 1
+2 meant xyz 1
+1 meant 1
+3 name meant xyz 1
+2 name meant 1
+3 word name meant 1
+3 unrelated word name 1
+2 unrelated word 1
+1 unrelated 1
+3 name unrelated word 1
+2 name unrelated 1
+3 word name unrelated 1
+3 company word name 1
+2 company word 1
+3 name company word 1
+2 name company 1
+3 corporation name company 1
+2 corporation name 1
+3 microsoft corporation name 1
+3 site microsoft corporation 1
+2 site microsoft 1
+1 site 1
+3 xyz site microsoft 1
+2 xyz site 1
+3 accurate xyz site 1
+2 accurate xyz 1
+1 accurate 1
+3 corporation accurate xyz 1
+2 corporation accurate 1
+3 microsoft corporation accurate 1
+3 text microsoft corporation 1
+2 text microsoft 1
+3 running text microsoft 1
+2 running text 1
+1 running 1
+3 example running text 1
+2 example running 1
+3 name example running 1
+2 name example 1
+3 company name example 1
+3 name outside company 1
+3 inside company name 1
+2 inside company 1
+1 inside 1
+3 name inside company 1
+2 name inside 1
+3 word name inside 1
+3 name name word 1
+2 name name 1
+3 company name name 1
+3 label outside company 1
+2 label outside 1
+3 output label outside 1
+2 output label 1
+1 output 1
+3 red output label 1
+2 red output 1
+1 red 1
+3 contains red output 1
+2 contains red 1
+1 contains 1
+3 word contains red 1
+2 word contains 1
+3 reviews word contains 1
+2 reviews word 1
+1 reviews 1
+3 words reviews word 1
+2 words reviews 1
+3 gram words reviews 1
+2 gram words 1
+1 gram 1
+3 word gram words 1
+2 word gram 1
+3 following word gram 1
+2 following word 1
+1 following 1
+3 word following word 1
+2 word following 1
+3 capitalized word following 1
+2 capitalized word 1
+1 capitalized 1
+3 word capitalized word 1
+2 word capitalized 1
+3 example word capitalized 1
+2 example word 1
+3 word example word 1
+2 word example 1
+3 features word example 1
+2 features word 1
+1 features 1
+3 maybe features word 1
+2 maybe features 1
+1 maybe 1
+3 word maybe features 1
+2 word maybe 1
+3 words word maybe 1
+3 words word words 1
+3 context word words 1
+2 context word 1
+1 context 1
+3 im context word 1
+2 im context 1
+1 im 1
+3 word im context 1
+2 word im 1
+3 instance word im 1
+2 instance word 1
+1 instance 1
+3 mining instance word 1
+2 mining instance 1
+1 mining 1
+3 text mining instance 1
+2 text mining 1
+3 task text mining 1
+2 task text 1
+1 task 1
+3 recognition task text 1
+2 recognition task 1
+3 entity recognition task 1
+2 entity recognition 1
+1 entity 1

@@ -1,0 +1,22 @@
+<ul>
+<li>Training examples</li>
+<li>Extract features</li>
+<li>Phase input</li>
+<li>Testing phase</li>
+<li>Training set</li>
+<li>Instance</li>
+<li>Feature</li>
+<li>Learning</li>
+<li>Instances</li>
+<li>Predict</li>
+<li>Model</li>
+<li>Label</li>
+<li>Action</li>
+<li>Feed</li>
+<li>Hypothesis</li>
+<li>Value</li>
+<li>Link</li>
+<li>User</li>
+<li>Output</li>
+<li>Length</li>
+</ul>

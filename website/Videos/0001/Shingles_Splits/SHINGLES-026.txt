@@ -1,0 +1,26 @@
+1 optimized 2
+2 horizon optimized 1
+1 horizon 1
+3 time horizon optimized 1
+2 time horizon 1
+1 time 1
+3 entire time horizon 1
+2 entire time 1
+1 entire 1
+3 agent entire time 1
+2 agent entire 1
+1 agent 1
+3 utility agent entire 1
+2 utility agent 1
+1 utility 1
+3 overall utility agent 1
+2 overall utility 1
+1 overall 1
+3 optimized overall utility 1
+2 optimized overall 1
+3 reward optimized overall 1
+2 reward optimized 1
+1 reward 1
+3 shortterm reward optimized 1
+2 shortterm reward 1
+1 shortterm 1

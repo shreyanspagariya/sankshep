@@ -1,0 +1,6 @@
+<ul>
+<li>Instance training</li>
+<li>Training instance</li>
+<li>Training instances</li>
+<li>Supervised learning</li>
+</ul>

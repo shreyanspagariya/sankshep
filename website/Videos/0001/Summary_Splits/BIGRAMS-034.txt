@@ -1,0 +1,14 @@
+<ul>
+<li>Discrete valued</li>
+<li>Valued feature</li>
+<li>Price house</li>
+<li>Predict price</li>
+<li>Features predict</li>
+<li>Classification discrete</li>
+<li>Continuous valued</li>
+<li>Feature discrete</li>
+<li>Value</li>
+<li>Patient</li>
+<li>Test</li>
+<li>Youre</li>
+</ul>

@@ -1,0 +1,45 @@
+1 person 3
+1 risk 2
+1 slippers 1
+2 lowrisk slippers 1
+1 lowrisk 1
+3 person lowrisk slippers 1
+2 person lowrisk 1
+3 tattoo person lowrisk 1
+2 tattoo person 1
+1 tattoo 1
+3 savings tattoo person 1
+2 savings tattoo 1
+1 savings 1
+3 peter savings tattoo 1
+2 peter savings 1
+1 peter 1
+3 income peter savings 1
+2 income peter 1
+1 income 1
+3 found income peter 1
+2 found income 1
+1 found 1
+3 rule found income 1
+2 rule found 1
+1 rule 1
+3 example rule found 1
+2 example rule 1
+1 example 1
+3 risk example rule 1
+2 risk example 1
+3 low risk example 1
+2 low risk 1
+1 low 1
+3 risk low risk 1
+2 risk low 1
+3 person risk low 1
+2 person risk 1
+3 predict person risk 1
+2 predict person 1
+1 predict 1
+3 person predict person 1
+2 person predict 1
+3 roots person predict 1
+2 roots person 1
+1 roots 1

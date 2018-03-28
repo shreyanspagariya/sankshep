@@ -1,0 +1,127 @@
+1 value 5
+1 instance 4
+1 example 3
+1 examples 3
+2 training examples 3
+1 training 3
+1 features 3
+1 values 3
+1 comprises 3
+2 example example 2
+2 input features 2
+1 input 2
+1 feature 2
+2 comprises values 2
+2 tennessee value 1
+1 tennessee 1
+3 value tennessee value 1
+2 value tennessee 1
+3 hse value tennessee 1
+2 hse value 1
+1 hse 1
+3 value hse value 1
+2 value hse 1
+3 finest value hse 1
+2 finest value 1
+1 finest 1
+3 value finest value 1
+2 value finest 1
+3 instance value finest 1
+2 instance value 1
+3 value instance value 1
+2 value instance 1
+3 example value instance 1
+2 example value 1
+3 example example value 1
+3 example example example 1
+3 feature example example 1
+2 feature example 1
+3 target feature example 1
+2 target feature 1
+1 target 1
+3 features target feature 1
+2 features target 1
+3 input features target 1
+3 values input features 1
+2 values input 1
+3 examples values input 1
+2 examples values 1
+3 training examples values 1
+3 examples training examples 1
+2 examples training 1
+3 training examples training 1
+3 comprises training examples 1
+2 comprises training 1
+3 examples comprises training 1
+2 examples comprises 1
+3 training examples comprises 1
+3 set training examples 1
+2 set training 1
+1 set 1
+3 attribute set training 1
+2 attribute set 1
+1 attribute 1
+3 output attribute set 1
+2 output attribute 1
+1 output 1
+3 features output attribute 1
+2 features output 1
+3 input features output 1
+3 features input features 1
+2 features input 1
+3 terms features input 1
+2 terms features 1
+1 terms 1
+3 described terms features 1
+2 described terms 1
+1 described 1
+3 instances described terms 1
+2 instances described 1
+1 instances 1
+3 youre instances described 1
+2 youre instances 1
+1 youre 1
+3 vaiven youre instances 1
+2 vaiven youre 1
+1 vaiven 1
+3 bibles vaiven youre 1
+2 bibles vaiven 1
+1 bibles 1
+3 white bibles vaiven 1
+2 white bibles 1
+1 white 1
+3 corresponding white bibles 1
+2 corresponding white 1
+1 corresponding 1
+3 cm corresponding white 1
+2 cm corresponding 1
+1 cm 1
+3 instance cm corresponding 1
+2 instance cm 1
+3 bn instance cm 1
+2 bn instance 1
+1 bn 1
+3 instance bn instance 1
+2 instance bn 1
+3 am instance bn 1
+2 am instance 1
+1 am 1
+3 avon am instance 1
+2 avon am 1
+1 avon 1
+3 feature avon am 1
+2 feature avon 1
+3 values feature avon 1
+2 values feature 1
+3 comprises values feature 1
+3 instance comprises values 1
+2 instance comprises 1
+3 versus instance comprises 1
+2 versus instance 1
+1 versus 1
+3 surpass versus instance 1
+2 surpass versus 1
+1 surpass 1
+3 values surpass versus 1
+2 values surpass 1
+3 comprises values surpass 1

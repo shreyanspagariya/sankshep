@@ -1,0 +1,239 @@
+1 function 6
+1 set 4
+1 space 4
+2 hypothesis space 3
+1 hypothesis 3
+1 functions 3
+1 talk 3
+2 linear function 3
+1 linear 3
+1 concept 2
+1 value 2
+1 feature 2
+1 describe 2
+1 features 2
+1 example 2
+1 comprise 2
+1 candidate 2
+2 space set 2
+3 function hypothesis space 2
+2 function hypothesis 2
+1 network 2
+1 tree 2
+2 decision tree 2
+1 decision 2
+3 function decision tree 2
+2 function decision 2
+1 subset 1
+2 concept subset 1
+3 image concept subset 1
+2 image concept 1
+1 image 1
+3 subject image concept 1
+2 subject image 1
+1 subject 1
+3 object subject image 1
+2 object subject 1
+1 object 1
+3 trying object subject 1
+2 trying object 1
+1 trying 1
+3 youre trying object 1
+2 youre trying 1
+1 youre 1
+3 suppose youre trying 1
+2 suppose youre 1
+1 suppose 1
+3 concept suppose youre 1
+2 concept suppose 1
+3 output concept suppose 1
+2 output concept 1
+1 output 1
+3 value output concept 1
+2 value output 1
+3 input value output 1
+2 input value 1
+1 input 1
+3 value input value 1
+2 value input 1
+3 example value input 1
+2 example value 1
+3 feature example value 1
+2 feature example 1
+3 describe feature example 1
+2 describe feature 1
+3 objects describe feature 1
+2 objects describe 1
+1 objects 1
+3 set objects describe 1
+2 set objects 1
+3 space set objects 1
+3 instant space set 1
+2 instant space 1
+1 instant 1
+3 vector instant space 1
+2 vector instant 1
+1 vector 1
+3 feature vector instant 1
+2 feature vector 1
+3 comprise feature vector 1
+2 comprise feature 1
+3 features comprise feature 1
+2 features comprise 1
+3 set features comprise 1
+2 set features 1
+3 instance set features 1
+2 instance set 1
+1 instance 1
+3 describe instance set 1
+2 describe instance 1
+3 attributes describe instance 1
+2 attributes describe 1
+1 attributes 1
+3 traits attributes describe 1
+2 traits attributes 1
+1 traits 1
+3 distinct traits attributes 1
+2 distinct traits 1
+1 distinct 1
+3 features distinct traits 1
+2 features distinct 1
+3 terminology features distinct 1
+2 terminology features 1
+1 terminology 1
+3 basic terminology features 1
+2 basic terminology 1
+1 basic 1
+3 look basic terminology 1
+2 look basic 1
+1 look 1
+3 detail look basic 1
+2 detail look 1
+1 detail 1
+3 talk detail look 1
+2 talk detail 1
+3 example talk detail 1
+2 example talk 1
+3 training example talk 1
+2 training example 1
+1 training 1
+3 probable training example 1
+2 probable training 1
+1 probable 1
+3 space probable training 1
+2 space probable 1
+3 hypothesis space probable 1
+3 space function hypothesis 1
+2 space function 1
+3 hypothesis space function 1
+3 comprise hypothesis space 1
+2 comprise hypothesis 1
+3 functions comprise hypothesis 1
+2 functions comprise 1
+3 set functions comprise 1
+2 set functions 1
+3 learning set functions 1
+2 learning set 1
+1 learning 1
+3 supervised learning set 1
+2 supervised learning 1
+1 supervised 1
+3 functions supervised learning 1
+2 functions supervised 1
+3 candidate functions supervised 1
+2 candidate functions 1
+3 outputs candidate functions 1
+2 outputs candidate 1
+1 outputs 1
+3 candidate outputs candidate 1
+2 candidate outputs 1
+3 set candidate outputs 1
+2 set candidate 1
+3 space set candidate 1
+3 hypothesis space set 1
+3 type function hypothesis 1
+2 type function 1
+1 type 1
+3 grant type function 1
+2 grant type 1
+1 grant 1
+3 cover grant type 1
+2 cover grant 1
+1 cover 1
+3 network cover grant 1
+2 network cover 1
+3 neural network cover 1
+2 neural network 1
+1 neural 1
+3 layer neural network 1
+2 layer neural 1
+1 layer 1
+3 multi layer neural 1
+2 multi layer 1
+1 multi 1
+3 class multi layer 1
+2 class multi 1
+1 class 1
+3 talk class multi 1
+2 talk class 1
+3 people talk class 1
+2 people talk 1
+1 people 1
+3 network people talk 1
+2 network people 1
+3 doodle network people 1
+2 doodle network 1
+1 doodle 1
+3 unit doodle network 1
+2 unit doodle 1
+1 unit 1
+3 perceptron unit doodle 1
+2 perceptron unit 1
+1 perceptron 1
+3 singulair perceptron unit 1
+2 singulair perceptron 1
+1 singulair 1
+3 picture singulair perceptron 1
+2 picture singulair 1
+1 picture 1
+3 shown picture singulair 1
+2 shown picture 1
+1 shown 1
+3 function shown picture 1
+2 function shown 1
+3 linear function shown 1
+3 multivariate linear function 1
+2 multivariate linear 1
+1 multivariate 1
+3 functions multivariate linear 1
+2 functions multivariate 1
+3 time functions multivariate 1
+2 time functions 1
+1 time 1
+3 tree time functions 1
+2 tree time 1
+3 decision tree time 1
+3 linear function decision 1
+3 week linear function 1
+2 week linear 1
+1 week 1
+3 talk week linear 1
+2 talk week 1
+3 tree talk week 1
+2 tree talk 1
+3 decision tree talk 1
+3 tributes function decision 1
+2 tributes function 1
+1 tributes 1
+3 death tributes function 1
+2 death tributes 1
+1 death 1
+3 terms death tributes 1
+2 terms death 1
+1 terms 1
+3 function terms death 1
+2 function terms 1
+3 linear function terms 1
+3 gambia linear function 1
+2 gambia linear 1
+1 gambia 1

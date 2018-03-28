@@ -1,0 +1,20 @@
+1 course 2
+1 time 1
+2 spend time 1
+1 spend 1
+3 learning spend time 1
+2 learning spend 1
+1 learning 1
+3 supervised learning spend 1
+2 supervised learning 1
+1 supervised 1
+3 talk supervised learning 1
+2 talk supervised 1
+1 talk 1
+3 course talk supervised 1
+2 course talk 1
+3 course course talk 1
+2 course course 1
+3 robbery course course 1
+2 robbery course 1
+1 robbery 1

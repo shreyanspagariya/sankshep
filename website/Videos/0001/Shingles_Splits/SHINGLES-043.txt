@@ -1,0 +1,143 @@
+1 patient 5
+1 plus 3
+1 name 2
+1 particular 2
+1 company 2
+2 negative plus 2
+1 negative 2
+3 plus negative plus 2
+2 plus negative 2
+2 name company 1
+3 word name company 1
+2 word name 1
+1 word 1
+3 particular word name 1
+2 particular word 1
+3 name particular word 1
+2 name particular 1
+3 particular name particular 1
+2 particular name 1
+3 text particular name 1
+2 text particular 1
+1 text 1
+3 names text particular 1
+2 names text 1
+1 names 1
+3 company names text 1
+2 company names 1
+3 finding company names 1
+2 finding company 1
+1 finding 1
+3 examples finding company 1
+2 examples finding 1
+1 examples 1
+3 plus examples finding 1
+2 plus examples 1
+3 negative plus examples 1
+3 negative plus negative 1
+3 positive plus negative 1
+2 positive plus 1
+1 positive 1
+3 im positive plus 1
+2 im positive 1
+1 im 1
+3 classes im positive 1
+2 classes im 1
+1 classes 1
+3 discovered classes im 1
+2 discovered classes 1
+1 discovered 1
+3 disease discovered classes 1
+2 disease discovered 1
+1 disease 1
+3 heart disease discovered 1
+2 heart disease 1
+1 heart 1
+3 risk heart disease 1
+2 risk heart 1
+1 risk 1
+3 low risk heart 1
+2 low risk 1
+1 low 1
+3 person low risk 1
+2 person low 1
+1 person 1
+3 labels person low 1
+2 labels person 1
+1 labels 1
+3 patient labels person 1
+2 patient labels 1
+3 cholesterol patient labels 1
+2 cholesterol patient 1
+1 cholesterol 1
+3 patient cholesterol patient 1
+2 patient cholesterol 1
+3 bmi patient cholesterol 1
+2 bmi patient 1
+1 bmi 1
+3 patient bmi patient 1
+2 patient bmi 1
+3 sex patient bmi 1
+2 sex patient 1
+1 sex 1
+3 patient sex patient 1
+2 patient sex 1
+3 age patient sex 1
+2 age patient 1
+1 age 1
+3 systolic age patient 1
+2 systolic age 1
+1 systolic 1
+3 diastolic systolic age 1
+2 diastolic systolic 1
+1 diastolic 1
+3 pressure diastolic systolic 1
+2 pressure diastolic 1
+1 pressure 1
+3 blood pressure diastolic 1
+2 blood pressure 1
+1 blood 1
+3 features blood pressure 1
+2 features blood 1
+1 features 1
+3 comprising features blood 1
+2 comprising features 1
+1 comprising 1
+3 record comprising features 1
+2 record comprising 1
+1 record 1
+3 patient record comprising 1
+2 patient record 1
+3 instance patient record 1
+2 instance patient 1
+1 instance 1
+3 diagnosis instance patient 1
+2 diagnosis instance 1
+1 diagnosis 1
+3 medical diagnosis instance 1
+2 medical diagnosis 1
+1 medical 1
+3 meant medical diagnosis 1
+2 meant medical 1
+1 meant 1
+3 tasks meant medical 1
+2 tasks meant 1
+1 tasks 1
+3 classification tasks meant 1
+2 classification tasks 1
+1 classification 1
+3 sample classification tasks 1
+2 sample classification 1
+1 sample 1
+3 look sample classification 1
+2 look sample 1
+1 look 1
+3 inputs look sample 1
+2 inputs look 1
+1 inputs 1
+3 predictions inputs look 1
+2 predictions inputs 1
+1 predictions 1
+3 set predictions inputs 1
+2 set predictions 1
+1 set 1

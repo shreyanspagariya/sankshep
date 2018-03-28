@@ -1,0 +1,10 @@
+<ul>
+<li>Performance metric</li>
+<li>Probability wrong</li>
+<li>Classification learning</li>
+<li>Examples</li>
+<li>Set</li>
+<li>Instances</li>
+<li>Prediction</li>
+<li>Image</li>
+</ul>

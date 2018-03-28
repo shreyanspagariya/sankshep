@@ -1,0 +1,9 @@
+1 tests 1
+2 patient tests 1
+1 patient 1
+3 disease patient tests 1
+2 disease patient 1
+1 disease 1
+3 predict disease patient 1
+2 predict disease 1
+1 predict 1

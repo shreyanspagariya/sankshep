@@ -1,0 +1,89 @@
+stop good morning Sylvia start with the second part of the first model that is Introduction model we will introduce the different types of machine learning.
+so that a few broad types of machine learning.
+that is supervised learning in supervised learning what we have is.
+for every suicide that in learning we use data and data we can say can comprised of input and the corresponding output suffer everyday that instance we can have the input X.
+and the corresponding output why.
+and from this the machine Learning System will build a model so that given an observation X observation X it will be try to find out what is the corresponding why so this is called supervised learning because for every instance we tell what is the output so this is called label.
+then we have unsupervised learning in unsupervised learning you are only given X.
+There Is No Label 2 Data.
+and given the data different data points you may like to for example plaster them or summarize them or find some patterns.
+the type of machine learning is reinforcement learning.
+in renforcement learning you have an agent who is acting in an environment and you want to figure out what actions the agent must take at every step and action that the agent takes is based on the Rewards or penalties that the agent gets in different states apart from these three we have also semi-supervised learning.
+in semi-supervised learning.
+it is a combination of supervisor unsupervised learning that is you have some labels training data and you also have a larger amount of enlabel training data and you can try to come up with some learning out of them that can work even when the training data is limited.
+so let us look at this picture which gives us a schematic diagram of supervised learning in supervised learning you have.
+a number of training instances so this contains the training instances for the training instances each instance from prices of input and output so this is the first training instance II training instance that are trending instance the end of training instance given all this training instances that learning out of them will come up with water and this model can be used to classify or to find the output are corresponding by value for a new observation x given a new input X you can use the model to find out the output why so this is the schematic of supervised learning.
+in unsupervised learning as we discussed we only have access.
+we have different access X1 X2 xn this is my data and the learning album.
+reproduce class starts with group this data.
+something different based on the similarity of the Titans to each other we can find out certain groups among data so that is called unsupervised learning.
+and as I said we also have semi-supervised learning inside me supervised learning we have a combination of label data and unlimited so this is label data that data which belong to two different classes so I can classes Circle the other classes triangle in Siamese supervised learning apart from having data from the two classes you also have an label data which is indicated by the small circles.
+so far example for supervised learning based on the data supervised date I will come up with some function and if you also have an label data in addition to the label data you might try to come up with a better function.
+until very briefly talked about rain forcement learning in fact we will not cover enforcement learning in this introductory course in machine learning but in an enforcement learning we have an agent which acts in the environment.
+so the agent can take action and this action can impact the environment based on agent is in a particular State the agent X an action and environment goes to a new state and give some reward to the agent that reward maybe a positively what can negatively water penalty look at me nothing at that particular time but the agent is continually acting in this world.
+and the rain forcement learner what it will do is it will earn a policy that is given a state what action to take so that not only the short-term reward is optimized but the overall utility of the agent over its entire time Horizon is optimized so this is what rain forcement learning is about people not talk about details of reinforcement learning in today's class today in this course supervised learning to spend some time on unsupervised learning so let us look at more details about what supervised learning is about.
+in supervised learning.
+you have a set of input features so what you have is you have some features expand its 2X and visit the features with the respect of which you describe the instances and you have a Target picture why.
+and you have several instances each instance comprises of values of suppose this is the instance one it comprises of values of this feature it's so you may have even a 2 a.m..
+and you have instant stew which is B1 B2 bien instance 3 which is 7 C to C and the corresponding you have the white Venezuelan way to Whitely.
+so your instances I described in terms of features that I input features and that is that output attribute and you have a set of training examples this comprises the training examples and he needs training example the values for the input features and the target feature and given for each example each of this Roy's one example example for instant stream the value for the value for x 2/3.
+know if you are so this is used for training during that testing time you are only given so you like this you have many training examples for test you are given a test instance in test instance.
+you are only given the values of the attributes said van zetten and you have to Output the corresponding why.
+then why are the target feature can be discreet valued feature or continuous that feature if my discrete value chat equal such problem classification from.
+so why can be discrete value or continuous value.
+for example we can have a discrete valued feature like whether it will rain or not tomorrow problems classification problems.
+or we can have a discrete valued feature which given the symptoms of the patient.
+predict whether a patient has a particular disease.
+all you have continuous valued featured then you call such problems regression.
+suppose given the values of certain features you want to predict the price of a house so given the location of the house the floor area of the house the number of bedrooms and some such features you want to predict the price of the house which is a continuous managerial value number and such problems are called aggression problems.
+no.
+so let us look at.
+some examples of classification problem an example is credit scoring suppose in this problem we are describing each input in terms of two features in Tom and savings so we have a person will look at the income and the savings of a person and we want to predict whether this is a highest person or a Lotus person and you seeing this picture the highest persons are labeled with minors and the Norris persons labeled with Plus.
+don't give him this data you want to come up with the classified which given the tributes of a new person will predict whether that person is highest or lowest.
+and this is an example of a rule that you have found if income is greater than Peter 1 and savings is greater than T tattoo then the person is Laura still sleep awesomeness high-risk so this we have come up with the rule based on the data in this case you can realize that and come up with.
+Vegas look at an example of regression problem you want to find out the price of a used car and use certain attributes of the car to predict its price for example let us say that you only looking at the mileage of the car and based on the mileage you're predicting the price and these different times they show the they correspond to a particular car show what is the mileage and what is the corresponding price so given the mileage price of several cars you have two data points and you can come up with a function so that given a new card you can whose mileages given you can predict the price.
+so immigration you come up with a function.
+which has input the in the input instance and the parameter something water.
+Marvel see that in order to describe an instance features play a very important role.
+observations that you see are analyzed into a set of quantifiable properties which are called features so if you want to protect the price of a car on the price of a house you have to have the right features which will help you to come up with the price if you want to predict what disease a patient has you have to come up with the right test centimeters which will enable you to make that prediction Now features are various types features can be categorical for example blood group is a feature which has for vandals ABA B&O on gender is a feature which has certain values like male-female Etc.
+our features can be ordinal like large medium small features can be in teachers I would like the number of words in a text or a feature can be real valued like height.
+now let us look at this table which shows are sample training examples and for this training examples you have 5 features action author Fred length width and the different roles are the different instances so instance even says action escapes author is known for his new life is long and person is at home based on the training examples comprising of this label instances you learn a model so that for a new instance You can predict the output feature suppose you have to predict the action of the user whether the user skip selling per week and give him the value of other thread length and width.
+so if you come up with the schematic diagram in supervised learning you have the training set the lining of the muses the training set to come up with a model or a hypothesis will introduce the storm in more detail later on and in the testing phase given a new instance you use the hypothesis to predict the value of y.
+this can also be shown like this in the training phase you get the input on the label from the input you extract the features of the input and feed it to the machine learning of the seminal in the testing phase given the input use a feature extractor to extract the features and you feed it to the classified model to get the label.
+same classification learning these are the components of a task which has input and output there's a performance metric and there is expediency.
+I'm the tosti comprises of input which is a set of instances devonda to DN each instance has a set of features we can represent an instance as a vector equal to expand x 2 x 10 and you have to Output a set of predictions for the inputs.
+now watch me do is that we will look at some sample classification tasks.
+let us say the task is medical diagnosis instance our patient record comprising of the features of blood pressure diastolic and systolic age of the patient to the sex of the patient the BMI of the patient cholesterol of the patient and the labels are whether the person has low risk of heart disease or high risk of heart disease the two classes because I'm positive plus a negative plus one is the positive class that is a negative plus.
+and then there are some of the examples finding company names in text.
+so give him a particular name you want to find out is it given of particular word you want to find out is it the name of a company this is the entity recognition tasking text mine.
+so the instance is a word and the context of the word.
+what was Mitch words come before the word which words come after the word and maybe certain features of the word for example is the word capitalized.
+is the word following this word i n c is the by gram or two words previous this word contains Achmed by and so on and the output labels are.
+first later outside that is if it is a company name is it the first name of.
+first word in that name is it inside a company name.
+is it a outside a company name for example in Atlanta text you may have.
+Microsoft Corporation.
+accurate XYZ.
+right so let us a Microsoft Corporation.
+together is the name of a company and this is the first word in the name.
+this is a letter word in the name.
+a legacy XY Zed is also a company name and this is also the first word in the name and the word acrid is not a company name so it is outside.
+so we may use this sort of this sort of convention in order to label company names in text and we can have a machine learning out with them finding this labels.
+similarly let's look at the 4th which is image recognition input image which is 1920 by 1080 pixels and each pixel has a color and output is whether the image is the image of a house or not.
+so the performance metric in classification learning can be what is the probability of.
+wrong prediction what is the probability or it can be the performance metric and we've accuracy or the probability of wrong prediction of the error on examples from the distribution from which the instances a drone.
+lights and classification learning that ass comprises Army set a set of input instances devonda 2dn and output is a set of predictions by 1 by 2 by the performance metric is what is the probability of wrong prediction and experience is a set of labeled examples where why are the two levels phonics for those training examples you have the ground truth.
+and these examples come from some distribution some fix distribution during the training this examples are drawn from a distribution and what is expected when we get tested stances goes examples also come from the same distribution.
+know how do you get data for the learning problem for example in medical diagnosis problem which we have seen in order to get data when you have a patient you find out the different parameters of the patient and have to wait for the next several years to find out that the patient get heart disease or not wait to look for the heart disease finding company names in text you get some text and you can the manually I notated for company names this forms the trading set funny image recognition that data is a set of images for which some human some humans are some people have labeled those images.
+so this is how you get theater.
+and as we said that when we want to look at the representation of the function that are two things one is the features the other is the function class and we will talk about this in Greater detail later the function class tan beer.
+Sim linear function in terms of the attributes the function can be a decision tree which we will talk about in week 2 it can be a linear function it can be a decision tree all can be other functions like multivariate linear function as shown in the picture or single layer perceptron which is a unit of a neural network which we will talk about later in this class or can be multi-level Network.
+and.
+give him the type of function the hypothesis space is the set of candidate outputs that you can get candidate functions that you get so supervised learning you can think of there is a set of functions which comprise the hypothesis space and you want to find out that function from the hypothesis space which is most probable given your training example.
+again we'll talk about this in detail later.
+so if you just look at the basic terminology we have some features which are distinct traits or attributes that are used to describe each instance and the set of features that comprise the feature Vector the instant space is a set of possible objects that you can describe by the feature and each example has the value of the input and the value of the output.
+a concept suppose you're trying to find out.
+is this.
+the object is the subject an image of a face so the concept is a subset of objects in the instance Place among all possible images some images a subset of images of images of face.
+the target function is a function that you are trying to learn it will match each instance to its label that is is it a face or is it not a face.
+the ability talked about what is example and what is training data scientist we end today's model and we will start with the next model in the next last time.
