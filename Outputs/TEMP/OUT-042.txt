@@ -1,0 +1,64 @@
+{
+  "name": "2067667969981883766",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "progressPercent": 100,
+    "startTime": "2017-11-02T10:23:39.758690Z",
+    "lastUpdateTime": "2017-11-02T10:24:31.994144Z"
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "transcript": "palomitas which will enable you to make that prediction Now features are various types features can be categorical for example blood group is a feature which has four band was a b a b a no gender is a feature which has certain values like male female Etc or features can be ordinal like large medium small features can be in GTA V I would like the number of words in a text or a feature can be real valid like height",
+            "confidence": 0.9590124
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": "now let's look at this table which shows are sample training examples and for this training examples you have five features action or 3rd grade length width and the different rules are the different instances so instance even says action escapes his known Predators new Lanka's long and the person is at home these are the different instances based on the training examples comprising of this label instances you learn a model so that for a new instance You can predict the output feature suppose you have to predict the action of the user whether the user Skips a link on the link and given the value of author thread length and width",
+            "confidence": 0.9739253
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": "so if you come up with the schematic diagram in supervised learning you have the training set the learning algorithms uses the training set to come up with a model or hypothesis will introduce the storm in more detail later on and in the testing phase given a new instance you use the hypothesis to predict the value of y",
+            "confidence": 0.9665501
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " this can also be shown like this in the training phase you get the input on the label from the input you extract the features of the input and feed it to the machine learning album Seminole in the testing phase given the input use a feature extractor to extract the features and you feed it to the classified model to get the label",
+            "confidence": 0.9486263
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " same classification learning these are the components which has input and output does a performance metric pee and there is experience",
+            "confidence": 0.9034302
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I'm the task T from prices of input which is a set of instances devonda 2dn each instance has a set of features we can represent an instance as a vector D equal to x 1 x 2 x 10",
+            "confidence": 0.891994
+          }
+        ]
+      }
+    ],
+    "totalBilledTime": "165s"
+  }
+}

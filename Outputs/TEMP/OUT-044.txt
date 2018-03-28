@@ -1,0 +1,136 @@
+{
+  "name": "8534023929815910120",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "progressPercent": 100,
+    "startTime": "2017-11-06T12:56:28.826677Z",
+    "lastUpdateTime": "2017-11-06T12:57:15.150600Z"
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "transcript": "this is the entity recognition task in text mining",
+            "confidence": 0.94861615
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " so the instance is the word I'm the context of the word",
+            "confidence": 0.8013346
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " what was which words come before the word which words come after the word and maybe certain features of the word for example is the word capitalized",
+            "confidence": 0.9419431
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " is the word following this word i n c is the by gram or two words reviews this word contains at Red by and so on and the output label side",
+            "confidence": 0.8780046
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " first later outside that is if it is a company name is it the first name of",
+            "confidence": 0.91817313
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " first word in that name is it inside a company name",
+            "confidence": 0.89511186
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " is it up outside a company name for example in a running text you may have",
+            "confidence": 0.90693116
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Microsoft Corporation",
+            "confidence": 0.98762906
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " accurate XYZ",
+            "confidence": 0.60712326
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " site so let us at Microsoft Corporation",
+            "confidence": 0.7365257
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " together is the name of a company and this is the first word in the name",
+            "confidence": 0.9719602
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " this is unrelated word in the name",
+            "confidence": 0.84712404
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I meant to say XYZ is also a company name and this is also the first word in the name and the word awkward is not a company name so it is outside",
+            "confidence": 0.87385803
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " so he may use this sort of this sort of a convention in order to label company names in text and we can have a machine learning algorithm finding this labels",
+            "confidence": 0.91602266
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " similarly let's look at the fourth row which is image recognition important image which is 1920 by 1080 pixels and each pixel has a color and",
+            "confidence": 0.91334563
+          }
+        ]
+      }
+    ],
+    "totalBilledTime": "150s"
+  }
+}

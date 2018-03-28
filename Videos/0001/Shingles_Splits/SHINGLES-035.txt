@@ -1,0 +1,81 @@
+1 person 4
+1 labeled 2
+2 persons labeled 2
+1 persons 2
+2 savings person 2
+1 savings 2
+3 income savings person 2
+2 income savings 2
+1 income 2
+1 look 2
+1 plus 1
+2 labeled plus 1
+3 persons labeled plus 1
+3 loudest persons labeled 1
+2 loudest persons 1
+1 loudest 1
+3 labeled loudest persons 1
+2 labeled loudest 1
+3 persons labeled loudest 1
+3 picture persons labeled 1
+2 picture persons 1
+1 picture 1
+3 seeing picture persons 1
+2 seeing picture 1
+1 seeing 1
+3 im seeing picture 1
+2 im seeing 1
+1 im 1
+3 person im seeing 1
+2 person im 1
+3 dont person im 1
+2 dont person 1
+1 dont 1
+3 person dont person 1
+2 person dont 1
+3 predict person dont 1
+2 predict person 1
+1 predict 1
+3 person predict person 1
+2 person predict 1
+3 savings person predict 1
+3 look income savings 1
+2 look income 1
+3 person look income 1
+2 person look 1
+3 savings person look 1
+3 features income savings 1
+2 features income 1
+1 features 1
+3 terms features income 1
+2 terms features 1
+1 terms 1
+3 port terms features 1
+2 port terms 1
+1 port 1
+3 describing port terms 1
+2 describing port 1
+1 describing 1
+3 scoring describing port 1
+2 scoring describing 1
+1 scoring 1
+3 credit scoring describing 1
+2 credit scoring 1
+1 credit 1
+3 example credit scoring 1
+2 example credit 1
+1 example 1
+3 classification example credit 1
+2 classification example 1
+1 classification 1
+3 examples classification example 1
+2 examples classification 1
+1 examples 1
+3 look examples classification 1
+2 look examples 1
+3 integration look examples 1
+2 integration look 1
+1 integration 1
+3 called integration look 1
+2 called integration 1
+1 called 1

@@ -1,0 +1,64 @@
+{
+  "name": "4506005907926261719",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "progressPercent": 100,
+    "startTime": "2017-11-06T12:49:33.052823Z",
+    "lastUpdateTime": "2017-11-06T12:50:04.491803Z"
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "transcript": "why is the data and come up the door",
+            "confidence": 0.7674135
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " numbnexus look at an example of a regression problem you want to find out the price of a used car and you start an attributes of the car to predict its price for example letter saying that you only looking at the mileage of the car and based on the mileage we are predicting the price and these different points they show the people respond to a particular car show what is the mileage and what is the corresponding price so given the mileage price of several cars you have two data points and you can come up with the function so that the given a new car you can choose mileage is given you can predict the price",
+            "confidence": 0.9745677
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " so immigration you come up with a function",
+            "confidence": 0.8658137
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " which dates of input the end of the input instance and the parameter something model",
+            "confidence": 0.8123416
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " now we see that in order to describe an instance features play a very important role",
+            "confidence": 0.87123466
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " observations that you see at analyzed into a set of quantifiable properties which are called features so if you want to predict the price of a car on the price of a house you have to have the right features which will help you to come up with the price if you want",
+            "confidence": 0.93781
+          }
+        ]
+      }
+    ],
+    "totalBilledTime": "90s"
+  }
+}

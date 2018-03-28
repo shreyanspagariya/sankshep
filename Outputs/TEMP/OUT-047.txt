@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "that's it then you get Destiny",
+          "confidence": 0.56692
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+1 learning 5
+1 agent 4
+1 data 2
+1 training 2
+1 supervised 2
+1 day 1
+2 training day 1
+3 learning training day 1
+2 learning training 1
+3 try learning training 1
+2 try learning 1
+1 try 1
+3 data try learning 1
+2 data try 1
+3 trading data try 1
+2 trading data 1
+1 trading 1
+3 maple trading data 1
+2 maple trading 1
+1 maple 1
+3 amount maple trading 1
+2 amount maple 1
+1 amount 1
+3 larger amount maple 1
+2 larger amount 1
+1 larger 1
+3 data larger amount 1
+2 data larger 1
+3 training data larger 1
+2 training data 1
+3 label training data 1
+2 label training 1
+1 label 1
+3 learning label training 1
+2 learning label 1
+3 unsupervised learning label 1
+2 unsupervised learning 1
+1 unsupervised 1
+3 supervised unsupervised learning 1
+2 supervised unsupervised 1
+3 combination supervised unsupervised 1
+2 combination supervised 1
+1 combination 1
+3 learning combination supervised 1
+2 learning combination 1
+3 supervised learning combination 1
+2 supervised learning 1
+3 semi supervised learning 1
+2 semi supervised 1
+1 semi 1
+3 learning semi supervised 1
+2 learning semi 1
+3 semisupervised learning semi 1
+2 semisupervised learning 1
+1 semisupervised 1
+3 apart semisupervised learning 1
+2 apart semisupervised 1
+1 apart 1
+3 agent apart semisupervised 1
+2 agent apart 1
+3 penalties agent apart 1
+2 penalties agent 1
+1 penalties 1
+3 rewards penalties agent 1
+2 rewards penalties 1
+1 rewards 1
+3 based rewards penalties 1
+2 based rewards 1
+1 based 1
+3 takes based rewards 1
+2 takes based 1
+1 takes 1
+3 agent takes based 1
+2 agent takes 1
+3 action agent takes 1
+2 action agent 1
+1 action 1
+3 step action agent 1
+2 step action 1
+1 step 1
+3 mistake step action 1
+2 mistake step 1
+1 mistake 1
+3 agent mistake step 1
+2 agent mistake 1
+3 actions agent mistake 1
+2 actions agent 1
+1 actions 1
+3 figure actions agent 1
+2 figure actions 1
+1 figure 1
+3 environment figure actions 1
+2 environment figure 1
+1 environment 1
+3 acting environment figure 1
+2 acting environment 1
+1 acting 1
+3 agent acting environment 1
+2 agent acting 1
+3 learning agent acting 1
+2 learning agent 1
+3 portsmouth learning agent 1
+2 portsmouth learning 1
+1 portsmouth 1
+3 invent portsmouth learning 1
+2 invent portsmouth 1
+1 invent 1
+3 lonnie invent portsmouth 1
+2 lonnie invent 1
+1 lonnie 1
+3 forcement lonnie invent 1
+2 forcement lonnie 1
+1 forcement 1
+3 rain forcement lonnie 1
+2 rain forcement 1
+1 rain 1

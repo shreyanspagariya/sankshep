@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "the learning algorithm",
+          "confidence": 0.92973095
+        }
+      ]
+    }
+  ]
+}

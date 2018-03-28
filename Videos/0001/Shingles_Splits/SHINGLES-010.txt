@@ -1,0 +1,15 @@
+1 data 3
+2 data data 2
+1 plastered 1
+2 example plastered 1
+1 example 1
+3 data example plastered 1
+2 data example 1
+3 data data example 1
+3 data data data 1
+3 label data data 1
+2 label data 1
+1 label 1
+3 learning label data 1
+2 learning label 1
+1 learning 1

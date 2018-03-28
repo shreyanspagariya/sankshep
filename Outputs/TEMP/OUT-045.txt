@@ -1,0 +1,56 @@
+{
+  "name": "2985363526080106130",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "progressPercent": 100,
+    "startTime": "2017-11-02T10:23:49.182900Z",
+    "lastUpdateTime": "2017-11-02T10:24:13.859914Z"
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "transcript": "how to put this weather the image is the image of a house or not",
+            "confidence": 0.95099944
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " so the performance metric in classification learning can be what is the probability of",
+            "confidence": 0.8717958
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " wrong prediction what is the probability or it can be the performance metric ton beam accuracy or the probability of wrong direction of the error on examples from the distribution from which the instances are drawn",
+            "confidence": 0.9442346
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " types and classification learning that comprises of the visit a set of input instances devonda TDN and output is a set of predictions by one by the performance metric is what is the probability of rain prediction and experience is a set of labeled examples when why are the two level decks for those training examples you have the ground truth data",
+            "confidence": 0.9337667
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and these examples come from",
+            "confidence": 0.9890804
+          }
+        ]
+      }
+    ],
+    "totalBilledTime": "75s"
+  }
+}

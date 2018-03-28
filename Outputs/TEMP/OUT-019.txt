@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "supervised learning",
+          "confidence": 0.992453
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and I was supervised learning as we discussed",
+          "confidence": 0.86011785
+        }
+      ]
+    }
+  ]
+}

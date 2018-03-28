@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "or find some patterns in them",
+          "confidence": 0.8210116
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " guitar type of machine learning",
+          "confidence": 0.7258458
+        }
+      ]
+    }
+  ]
+}

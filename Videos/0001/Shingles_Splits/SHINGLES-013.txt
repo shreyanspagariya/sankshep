@@ -1,0 +1,64 @@
+1 training 8
+1 instance 4
+2 instance training 3
+3 training instance training 3
+2 training instance 3
+1 instances 3
+2 training instances 3
+1 learning 2
+2 supervised learning 2
+1 supervised 2
+1 stands 1
+2 training stands 1
+3 instance training stands 1
+3 instance training instance 1
+3 institute training instance 1
+2 institute training 1
+1 institute 1
+3 training institute training 1
+2 training institute 1
+3 instance training institute 1
+3 output training instance 1
+2 output training 1
+1 output 1
+3 input output training 1
+2 input output 1
+1 input 1
+3 comprises input output 1
+2 comprises input 1
+1 comprises 1
+3 instance comprises input 1
+2 instance comprises 1
+3 instances instance comprises 1
+2 instances instance 1
+3 training instances instance 1
+3 instances training instances 1
+2 instances training 1
+3 training instances training 1
+3 contains training instances 1
+2 contains training 1
+1 contains 1
+3 instances contains training 1
+2 instances contains 1
+3 training instances contains 1
+3 learning training instances 1
+2 learning training 1
+3 supervised learning training 1
+3 learning supervised learning 1
+2 learning supervised 1
+3 supervised learning supervised 1
+3 diagram supervised learning 1
+2 diagram supervised 1
+1 diagram 1
+3 schematic diagram supervised 1
+2 schematic diagram 1
+1 schematic 1
+3 picture schematic diagram 1
+2 picture schematic 1
+1 picture 1
+3 look picture schematic 1
+2 look picture 1
+1 look 1
+3 limited look picture 1
+2 limited look 1
+1 limited 1

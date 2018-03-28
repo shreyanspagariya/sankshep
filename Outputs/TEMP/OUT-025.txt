@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "acting in this world",
+          "confidence": 0.9866171
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and the rain forcement learner what it will do is it will learn a policy that is given a state what action to take so that",
+          "confidence": 0.9151007
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "33508579980797822",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "progressPercent": 100,
+    "startTime": "2017-11-06T12:48:44.759595Z",
+    "lastUpdateTime": "2017-11-06T12:49:07.220489Z"
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "transcript": "is the rain forcement Lonnie",
+            "confidence": 0.85873955
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " invent Portsmouth learning you have an agent who is acting in an environment and you want to figure out what actions that agent mistake at every step and action that the agent takes is based on the Rewards or penalties that the agent gets in different states apart from these three we have also semi-supervised learning",
+            "confidence": 0.9460144
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " in semi supervised learning",
+            "confidence": 0.7350155
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " it is a combination of supervised and unsupervised learning that is you have some label training data and you also have a larger amount of maple trading data and you can try to come up with some learning out of them that can work even when the training day",
+            "confidence": 0.9359833
+          }
+        ]
+      }
+    ],
+    "totalBilledTime": "75s"
+  }
+}

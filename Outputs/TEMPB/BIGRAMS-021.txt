@@ -1,0 +1,9 @@
+<ul>
+<li>Unlabeled data</li>
+<li>Supervised learning</li>
+<li>Label data</li>
+<li>Simon supervised</li>
+<li>Classes</li>
+<li>Function</li>
+<li>Circles</li>
+</ul>

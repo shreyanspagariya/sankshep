@@ -1,0 +1,6 @@
+1 classified 1
+2 data classified 1
+1 data 1
+3 giving data classified 1
+2 giving data 1
+1 giving 1

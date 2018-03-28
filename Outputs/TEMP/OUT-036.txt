@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "no giving this data you want to come up with the classified which given that",
+          "confidence": 0.87820417
+        }
+      ]
+    }
+  ]
+}

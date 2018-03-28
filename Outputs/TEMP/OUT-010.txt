@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "is learning you are only given X",
+          "confidence": 0.9249674
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " There Is No Label 2 that data",
+          "confidence": 0.8518378
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and give him the data different data points you may like to for example plastered them or some",
+          "confidence": 0.9237096
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+1 data 2
+1 called 1
+2 data called 1
+3 items data called 1
+2 items data 1
+1 items 1
+3 similarity items data 1
+2 similarity items 1
+1 similarity 1
+3 based similarity items 1
+2 based similarity 1
+1 based 1
+3 bank based similarity 1
+2 bank based 1
+1 bank 1
+3 clusters bank based 1
+2 clusters bank 1
+1 clusters 1
+3 produce clusters bank 1
+2 produce clusters 1
+1 produce 1
+3 bee produce clusters 1
+2 bee produce 1
+1 bee 1
+3 album bee produce 1
+2 album bee 1
+1 album 1
+3 learning album bee 1
+2 learning album 1
+1 learning 1
+3 data learning album 1
+2 data learning 1
+3 xxx data learning 1
+2 xxx data 1
+1 xxx 1

@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "learning in supervised learning what we have is",
+          "confidence": 0.947025
+        }
+      ]
+    }
+  ]
+}

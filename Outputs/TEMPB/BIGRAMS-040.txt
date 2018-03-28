@@ -1,0 +1,11 @@
+<ul>
+<li>Predict price</li>
+<li>Price car</li>
+<li>Mileage</li>
+<li>Features</li>
+<li>Instance</li>
+<li>Input</li>
+<li>Function</li>
+<li>Example</li>
+<li>Data</li>
+</ul>

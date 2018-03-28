@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "types of machine learning",
+          "confidence": 0.96616256
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " can you supervise",
+          "confidence": 0.4602406
+        }
+      ]
+    }
+  ]
+}

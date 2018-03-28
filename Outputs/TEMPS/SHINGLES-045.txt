@@ -1,0 +1,140 @@
+1 examples 4
+1 probability 4
+1 set 3
+1 metric 3
+2 performance metric 3
+1 performance 3
+1 instances 2
+1 prediction 2
+1 wrong 2
+2 probability wrong 2
+1 learning 2
+2 classification learning 2
+1 classification 2
+1 image 2
+2 data examples 1
+1 data 1
+3 truth data examples 1
+2 truth data 1
+1 truth 1
+3 ground truth data 1
+2 ground truth 1
+1 ground 1
+3 examples ground truth 1
+2 examples ground 1
+3 training examples ground 1
+2 training examples 1
+1 training 1
+3 decks training examples 1
+2 decks training 1
+1 decks 1
+3 level decks training 1
+2 level decks 1
+1 level 1
+3 examples level decks 1
+2 examples level 1
+3 labeled examples level 1
+2 labeled examples 1
+1 labeled 1
+3 set labeled examples 1
+2 set labeled 1
+3 experience set labeled 1
+2 experience set 1
+1 experience 1
+3 prediction experience set 1
+2 prediction experience 1
+3 rain prediction experience 1
+2 rain prediction 1
+1 rain 1
+3 probability rain prediction 1
+2 probability rain 1
+3 metric probability rain 1
+2 metric probability 1
+3 performance metric probability 1
+3 predictions performance metric 1
+2 predictions performance 1
+1 predictions 1
+3 set predictions performance 1
+2 set predictions 1
+3 output set predictions 1
+2 output set 1
+1 output 1
+3 tdn output set 1
+2 tdn output 1
+1 tdn 1
+3 devonda tdn output 1
+2 devonda tdn 1
+1 devonda 1
+3 instances devonda tdn 1
+2 instances devonda 1
+3 input instances devonda 1
+2 input instances 1
+1 input 1
+3 set input instances 1
+2 set input 1
+3 visit set input 1
+2 visit set 1
+1 visit 1
+3 comprises visit set 1
+2 comprises visit 1
+1 comprises 1
+3 learning comprises visit 1
+2 learning comprises 1
+3 classification learning comprises 1
+3 types classification learning 1
+2 types classification 1
+1 types 1
+3 drawn types classification 1
+2 drawn types 1
+1 drawn 1
+3 instances drawn types 1
+2 instances drawn 1
+3 distribution instances drawn 1
+2 distribution instances 1
+1 distribution 1
+3 examples distribution instances 1
+2 examples distribution 1
+3 error examples distribution 1
+2 error examples 1
+1 error 1
+3 direction error examples 1
+2 direction error 1
+1 direction 1
+3 wrong direction error 1
+2 wrong direction 1
+3 probability wrong direction 1
+3 accuracy probability wrong 1
+2 accuracy probability 1
+1 accuracy 1
+3 beam accuracy probability 1
+2 beam accuracy 1
+1 beam 1
+3 ton beam accuracy 1
+2 ton beam 1
+1 ton 1
+3 metric ton beam 1
+2 metric ton 1
+3 performance metric ton 1
+3 probability performance metric 1
+2 probability performance 1
+3 prediction probability performance 1
+2 prediction probability 1
+3 wrong prediction probability 1
+2 wrong prediction 1
+3 probability wrong prediction 1
+3 learning probability wrong 1
+2 learning probability 1
+3 classification learning probability 1
+3 metric classification learning 1
+2 metric classification 1
+3 performance metric classification 1
+3 house performance metric 1
+2 house performance 1
+1 house 1
+3 image house performance 1
+2 image house 1
+3 image image house 1
+2 image image 1
+3 weather image image 1
+2 weather image 1
+1 weather 1

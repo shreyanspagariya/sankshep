@@ -1,0 +1,380 @@
+1 features 8
+1 input 6
+1 training 6
+1 instance 5
+1 feature 5
+1 set 4
+1 learning 4
+1 instances 4
+1 phase 3
+1 predict 3
+1 model 3
+1 label 3
+1 action 3
+1 examples 3
+2 training examples 3
+1 feed 2
+2 extract features 2
+1 extract 2
+2 phase input 2
+2 testing phase 2
+1 testing 2
+1 hypothesis 2
+2 training set 2
+1 value 2
+1 link 2
+1 user 2
+1 output 2
+1 length 2
+1 equal 1
+2 vector equal 1
+1 vector 1
+3 instance vector equal 1
+2 instance vector 1
+3 represent instance vector 1
+2 represent instance 1
+1 represent 1
+3 features represent instance 1
+2 features represent 1
+3 set features represent 1
+2 set features 1
+3 instance set features 1
+2 instance set 1
+3 dn instance set 1
+2 dn instance 1
+1 dn 1
+3 devonda dn instance 1
+2 devonda dn 1
+1 devonda 1
+3 instances devonda dn 1
+2 instances devonda 1
+3 set instances devonda 1
+2 set instances 1
+3 input set instances 1
+2 input set 1
+3 prices input set 1
+2 prices input 1
+1 prices 1
+3 task prices input 1
+2 task prices 1
+1 task 1
+3 im task prices 1
+2 im task 1
+1 im 1
+3 experience im task 1
+2 experience im 1
+1 experience 1
+3 pee experience im 1
+2 pee experience 1
+1 pee 1
+3 metric pee experience 1
+2 metric pee 1
+1 metric 1
+3 performance metric pee 1
+2 performance metric 1
+1 performance 1
+3 output performance metric 1
+2 output performance 1
+3 input output performance 1
+2 input output 1
+3 components input output 1
+2 components input 1
+1 components 1
+3 learning components input 1
+2 learning components 1
+3 classification learning components 1
+2 classification learning 1
+1 classification 1
+3 label classification learning 1
+2 label classification 1
+3 model label classification 1
+2 model label 1
+3 classified model label 1
+2 classified model 1
+1 classified 1
+3 feed classified model 1
+2 feed classified 1
+3 features feed classified 1
+2 features feed 1
+3 extract features feed 1
+3 extractor extract features 1
+2 extractor extract 1
+1 extractor 1
+3 feature extractor extract 1
+2 feature extractor 1
+3 input feature extractor 1
+2 input feature 1
+3 phase input feature 1
+3 testing phase input 1
+3 seminole testing phase 1
+2 seminole testing 1
+1 seminole 1
+3 album seminole testing 1
+2 album seminole 1
+1 album 1
+3 learning album seminole 1
+2 learning album 1
+3 machine learning album 1
+2 machine learning 1
+1 machine 1
+3 feed machine learning 1
+2 feed machine 1
+3 input feed machine 1
+2 input feed 1
+3 features input feed 1
+2 features input 1
+3 extract features input 1
+3 input extract features 1
+2 input extract 1
+3 label input extract 1
+2 label input 1
+3 input label input 1
+2 input label 1
+3 phase input label 1
+3 training phase input 1
+2 training phase 1
+3 shown training phase 1
+2 shown training 1
+1 shown 1
+3 value shown training 1
+2 value shown 1
+3 predict value shown 1
+2 predict value 1
+3 hypothesis predict value 1
+2 hypothesis predict 1
+3 instance hypothesis predict 1
+2 instance hypothesis 1
+3 phase instance hypothesis 1
+2 phase instance 1
+3 testing phase instance 1
+3 detail testing phase 1
+2 detail testing 1
+1 detail 1
+3 storm detail testing 1
+2 storm detail 1
+1 storm 1
+3 introduce storm detail 1
+2 introduce storm 1
+1 introduce 1
+3 hypothesis introduce storm 1
+2 hypothesis introduce 1
+3 model hypothesis introduce 1
+2 model hypothesis 1
+3 set model hypothesis 1
+2 set model 1
+3 training set model 1
+3 algorithms training set 1
+2 algorithms training 1
+1 algorithms 1
+3 learning algorithms training 1
+2 learning algorithms 1
+3 set learning algorithms 1
+2 set learning 1
+3 training set learning 1
+3 learning training set 1
+2 learning training 1
+3 supervised learning training 1
+2 supervised learning 1
+1 supervised 1
+3 diagram supervised learning 1
+2 diagram supervised 1
+1 diagram 1
+3 schematic diagram supervised 1
+2 schematic diagram 1
+1 schematic 1
+3 widthso schematic diagram 1
+2 widthso schematic 1
+1 widthso 1
+3 length widthso schematic 1
+2 length widthso 1
+3 thread length widthso 1
+2 thread length 1
+1 thread 1
+3 author thread length 1
+2 author thread 1
+1 author 1
+3 value author thread 1
+2 value author 1
+3 link value author 1
+2 link value 1
+3 link link value 1
+2 link link 1
+3 skips link link 1
+2 skips link 1
+1 skips 1
+3 user skips link 1
+2 user skips 1
+3 user user skips 1
+2 user user 1
+3 action user user 1
+2 action user 1
+3 predict action user 1
+2 predict action 1
+3 suppose predict action 1
+2 suppose predict 1
+1 suppose 1
+3 feature suppose predict 1
+2 feature suppose 1
+3 output feature suppose 1
+2 output feature 1
+3 predict output feature 1
+2 predict output 1
+3 instance predict output 1
+2 instance predict 1
+3 model instance predict 1
+2 model instance 1
+3 learn model instance 1
+2 learn model 1
+1 learn 1
+3 instances learn model 1
+2 instances learn 1
+3 label instances learn 1
+2 label instances 1
+3 comprising label instances 1
+2 comprising label 1
+1 comprising 1
+3 examples comprising label 1
+2 examples comprising 1
+3 training examples comprising 1
+3 based training examples 1
+2 based training 1
+1 based 1
+3 instances based training 1
+2 instances based 1
+3 home instances based 1
+2 home instances 1
+1 home 1
+3 person home instances 1
+2 person home 1
+1 person 1
+3 lankas person home 1
+2 lankas person 1
+1 lankas 1
+3 predators lankas person 1
+2 predators lankas 1
+1 predators 1
+3 escapes predators lankas 1
+2 escapes predators 1
+1 escapes 1
+3 action escapes predators 1
+2 action escapes 1
+3 instance action escapes 1
+2 instance action 1
+3 instances instance action 1
+2 instances instance 1
+3 rules instances instance 1
+2 rules instances 1
+1 rules 1
+3 width rules instances 1
+2 width rules 1
+1 width 1
+3 length width rules 1
+2 length width 1
+3 grade length width 1
+2 grade length 1
+1 grade 1
+3 rd grade length 1
+2 rd grade 1
+1 rd 1
+3 action rd grade 1
+2 action rd 1
+3 features action rd 1
+2 features action 1
+3 five features action 1
+2 five features 1
+1 five 1
+3 examples five features 1
+2 examples five 1
+3 training examples five 1
+3 examples training examples 1
+2 examples training 1
+3 training examples training 1
+3 sample training examples 1
+2 sample training 1
+1 sample 1
+3 table sample training 1
+2 table sample 1
+1 table 1
+3 look table sample 1
+2 look table 1
+1 look 1
+3 heightnow look table 1
+2 heightnow look 1
+1 heightnow 1
+3 valid heightnow look 1
+2 valid heightnow 1
+1 valid 1
+3 real valid heightnow 1
+2 real valid 1
+1 real 1
+3 feature real valid 1
+2 feature real 1
+3 text feature real 1
+2 text feature 1
+1 text 1
+3 words text feature 1
+2 words text 1
+1 words 1
+3 gta words text 1
+2 gta words 1
+1 gta 1
+3 features gta words 1
+2 features gta 1
+3 medium features gta 1
+2 medium features 1
+1 medium 1
+3 ordinal medium features 1
+2 ordinal medium 1
+1 ordinal 1
+3 features ordinal medium 1
+2 features ordinal 1
+3 etc features ordinal 1
+2 etc features 1
+1 etc 1
+3 female etc features 1
+2 female etc 1
+1 female 1
+3 male female etc 1
+2 male female 1
+1 male 1
+3 values male female 1
+2 values male 1
+1 values 1
+3 feature values male 1
+2 feature values 1
+3 gender feature values 1
+2 gender feature 1
+1 gender 1
+3 band gender feature 1
+2 band gender 1
+1 band 1
+3 feature band gender 1
+2 feature band 1
+3 blood feature band 1
+2 blood feature 1
+1 blood 1
+3 example blood feature 1
+2 example blood 1
+1 example 1
+3 categorical example blood 1
+2 categorical example 1
+1 categorical 1
+3 features categorical example 1
+2 features categorical 1
+3 types features categorical 1
+2 types features 1
+1 types 1
+3 various types features 1
+2 various types 1
+1 various 1
+3 features various types 1
+2 features various 1
+3 prediction features various 1
+2 prediction features 1
+1 prediction 1
+3 enable prediction features 1
+2 enable prediction 1
+1 enable 1
+3 palomitas enable prediction 1
+2 palomitas enable 1
+1 palomitas 1

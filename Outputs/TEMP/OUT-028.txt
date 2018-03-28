@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "robbery in today in this course so most of this course we will talk about supervised learning I will spend some time",
+          "confidence": 0.8760006
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "how to put a set of predictions for the inputs",
+          "confidence": 0.89278555
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " now what you going to do is that even look at some sample classification tasks",
+          "confidence": 0.8634954
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " meant to say that asks medical diagnosis instance are patient record comprising of the features of blood pressure diastolic and systolic age of the patient the sex of the patient the BMI of the patient cholesterol of the patient and the labels are whether the person has is low risk of heart disease or how I discovered this is the two classes because I'm positive plus a negative plus a negative plus",
+          "confidence": 0.94108075
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and then there are some other examples finding company names in text",
+          "confidence": 0.913477
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " so give him a particular name you want to find out is it a given a particular word you want to find out is it the name of a company",
+          "confidence": 0.9098601
+        }
+      ]
+    }
+  ]
+}

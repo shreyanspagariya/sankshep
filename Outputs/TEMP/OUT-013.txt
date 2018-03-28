@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "what is limited",
+          "confidence": 0.7480833
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " so let us look at this picture which gives us a schematic diagram of supervised learning in supervised learning you have",
+          "confidence": 0.91092855
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " a number of training instances so this contains the training instances for the training instances each instance comprises of input and output so this is the first training instance the second training institute or training instance the end of training instance given all this training in stands",
+          "confidence": 0.9379408
+        }
+      ]
+    }
+  ]
+}

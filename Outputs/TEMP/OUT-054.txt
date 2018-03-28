@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "what is it not a face",
+          "confidence": 0.8293573
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "unsupervised learning so let us look at more details about what supervised learning is about",
+          "confidence": 0.9137469
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " in supervised learning",
+          "confidence": 0.90925384
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " you have a set of",
+          "confidence": 0.86774415
+        }
+      ]
+    }
+  ]
+}

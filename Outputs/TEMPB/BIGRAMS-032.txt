@@ -1,0 +1,9 @@
+<ul>
+<li>Training examples</li>
+<li>Example example</li>
+<li>Input features</li>
+<li>Comprises values</li>
+<li>Value</li>
+<li>Instance</li>
+<li>Feature</li>
+</ul>

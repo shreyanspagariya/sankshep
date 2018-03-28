@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "some humans are some people have labeled those images to this is how you get data",
+          "confidence": 0.8326603
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and as we said that when we want to look at the representation of the function that are two things one is the features the other is the function class and we will talk about this in braids",
+          "confidence": 0.9413189
+        }
+      ]
+    }
+  ]
+}

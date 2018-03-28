@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "we'll come up with a model and this model",
+          "confidence": 0.46897274
+        }
+      ]
+    }
+  ]
+}

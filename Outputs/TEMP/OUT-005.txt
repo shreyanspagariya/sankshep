@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "so better if you brought",
+          "confidence": 0.5217716
+        }
+      ]
+    }
+  ]
+}

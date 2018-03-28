@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "some distribution some fix distribution during the training this examples of drawn from a distribution and what is X",
+          "confidence": 0.92772955
+        }
+      ]
+    }
+  ]
+}

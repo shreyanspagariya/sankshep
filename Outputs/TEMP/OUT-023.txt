@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "call Sunshine Learning Center in reinforcements learning we have an agent which acts in the environment",
+          "confidence": 0.833377
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " so the agent can take action and this action can",
+          "confidence": 0.801566
+        }
+      ]
+    }
+  ]
+}

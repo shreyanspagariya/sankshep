@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "then we have unsupervised learning in answer",
+          "confidence": 0.91054773
+        }
+      ]
+    }
+  ]
+}

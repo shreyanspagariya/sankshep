@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "for the new observation x given a new input X you can use the model to find out the output why",
+          "confidence": 0.9421775
+        }
+      ]
+    }
+  ]
+}

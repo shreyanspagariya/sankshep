@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "good morning so we start with the second part of the first module that is Introduction module we will introduce the different types of machine learning",
+          "confidence": 0.9262238
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "so this is truly have come up with.",
+          "confidence": 0.86092997
+        }
+      ]
+    }
+  ]
+}

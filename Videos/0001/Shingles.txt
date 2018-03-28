@@ -1,0 +1,2361 @@
+1 learning 45
+1 data 26
+1 features 25
+1 training 25
+1 instance 24
+1 input 19
+1 set 18
+1 example 18
+1 word 15
+1 function 15
+1 output 15
+1 supervised 15
+1 examples 14
+1 feature 14
+2 supervised learning 14
+1 name 13
+1 instances 12
+1 look 12
+1 label 12
+1 company 11
+1 price 11
+1 predict 11
+1 patient 11
+1 value 11
+1 agent 11
+1 person 9
+1 model 9
+2 training examples 8
+1 action 8
+1 text 7
+1 classification 7
+1 based 7
+1 corresponding 7
+2 machine learning 7
+1 machine 7
+1 images 6
+1 image 6
+1 house 6
+1 disease 6
+1 values 6
+1 particular 6
+1 class 6
+2 label data 6
+2 unsupervised learning 6
+1 unsupervised 6
+1 distribution 5
+2 company name 5
+2 word name 5
+1 hypothesis 5
+1 car 5
+1 valued 5
+1 suppose 5
+1 comprises 5
+1 talk 5
+1 classes 5
+1 called 5
+1 space 4
+1 probability 4
+1 names 4
+2 company names 4
+2 heart disease 4
+1 heart 4
+1 metric 4
+2 performance metric 4
+1 performance 4
+1 words 4
+1 prediction 4
+1 mileage 4
+1 plus 4
+1 labeled 4
+2 predict price 4
+1 discrete 4
+1 continuous 4
+1 attributes 4
+1 test 4
+1 target 4
+1 describe 4
+1 time 4
+1 rain 4
+2 training instances 4
+1 picture 4
+2 training data 4
+1 labels 4
+1 environment 4
+2 data data 4
+3 learning supervised learning 4
+2 learning supervised 4
+2 hypothesis space 3
+1 functions 3
+2 linear function 3
+1 linear 3
+2 examples distribution 3
+2 wrong prediction 3
+1 wrong 3
+3 probability wrong prediction 3
+2 probability wrong 3
+2 name word 3
+1 outside 3
+1 recognition 3
+2 names text 3
+3 company names text 3
+1 finding 3
+2 classification learning 3
+1 phase 3
+1 detail 3
+1 savings 3
+2 price house 3
+2 valued feature 3
+1 testing 3
+1 terms 3
+1 instant 3
+2 input features 3
+1 reward 3
+1 forcement 3
+2 rain forcement 3
+1 water 3
+2 training instance 3
+2 instances instance 3
+1 schematic 3
+2 learning training 3
+2 semisupervised learning 3
+1 semisupervised 3
+1 try 3
+1 observation 3
+3 supervised learning supervised 3
+1 types 3
+2 images images 2
+1 subset 2
+1 trying 2
+1 concept 2
+1 objects 2
+1 comprise 2
+1 candidate 2
+2 space set 2
+3 function hypothesis space 2
+2 function hypothesis 2
+1 network 2
+1 tree 2
+2 decision tree 2
+1 decision 2
+3 function decision tree 2
+2 function decision 2
+2 talk detail 2
+2 function class 2
+1 wait 2
+2 image recognition 2
+1 sort 2
+1 corporation 2
+2 microsoft corporation 2
+1 microsoft 2
+2 name outside 2
+3 company name outside 2
+3 name word name 2
+3 outside company name 2
+2 outside company 2
+2 words word 2
+2 name company 2
+3 finding company names 2
+2 finding company 2
+2 negative plus 2
+1 negative 2
+1 positive 2
+3 risk heart disease 2
+2 risk heart 2
+1 risk 2
+1 diagnosis 2
+2 medical diagnosis 2
+1 medical 2
+1 predictions 2
+2 set predictions 2
+3 output set predictions 2
+2 output set 2
+1 vector 2
+2 set features 2
+3 instance set features 2
+2 instance set 2
+1 dn 2
+2 devonda dn 2
+1 devonda 2
+3 instances devonda dn 2
+2 instances devonda 2
+1 im 2
+1 task 2
+1 feed 2
+2 extract features 2
+1 extract 2
+2 phase input 2
+1 shown 2
+2 testing phase 2
+2 training set 2
+1 week 2
+1 user 2
+1 learn 2
+1 comprising 2
+1 width 2
+2 length width 2
+1 length 2
+1 author 2
+1 sample 2
+1 blood 2
+2 describe instance 2
+1 youre 2
+2 price car 2
+1 rule 2
+1 classified 2
+2 persons labeled 2
+1 persons 2
+2 predict person 2
+3 person predict person 2
+2 person predict 2
+1 income 2
+2 savings person 2
+3 predict price house 2
+3 features predict price 2
+2 features predict 2
+1 regression 2
+3 discrete valued feature 2
+2 discrete valued 2
+2 classification discrete 2
+1 equal 2
+2 discrete value 2
+2 test instance 2
+2 feature example 2
+2 target feature 2
+2 training example 2
+2 examples training 2
+3 training examples training 2
+2 features input 2
+2 terms features 2
+2 comprises values 2
+3 instance comprises values 2
+2 instance comprises 2
+1 expand 2
+2 set input 2
+2 learning set 2
+3 supervised learning set 2
+1 todays 2
+1 details 2
+1 people 2
+1 optimized 2
+1 maybe 2
+1 goes 2
+2 agent action 2
+1 course 2
+2 enforcement learning 2
+1 enforcement 2
+2 forcement learning 2
+3 rain forcement learning 2
+1 talked 2
+2 based data 2
+1 inside 2
+2 data learning 2
+1 access 2
+2 output corresponding 2
+2 instance training 2
+2 input output 2
+1 contains 2
+3 supervised learning training 2
+3 diagram supervised learning 2
+2 diagram supervised 2
+1 diagram 2
+3 schematic diagram supervised 2
+2 schematic diagram 2
+2 data try 2
+1 combination 2
+2 learning combination 2
+3 learning semisupervised learning 2
+2 learning semisupervised 2
+1 apart 2
+1 acting 2
+2 learning agent 2
+2 reinforcement learning 2
+1 reinforcement 2
+1 type 2
+3 label data data 2
+3 learning unsupervised learning 2
+2 learning unsupervised 2
+2 corresponding output 2
+3 input corresponding output 2
+2 input corresponding 2
+3 types machine learning 2
+2 types machine 2
+1 introduce 2
+2 start model 2
+1 start 2
+3 start model time 1
+3 model start model 1
+2 model start 1
+3 todays model start 1
+2 todays model 1
+3 scientist todays model 1
+2 scientist todays 1
+1 scientist 1
+3 data scientist todays 1
+2 data scientist 1
+3 training data scientist 1
+3 example training data 1
+2 example training 1
+3 talked example training 1
+2 talked example 1
+3 ability talked example 1
+2 ability talked 1
+1 ability 1
+3 label ability talked 1
+2 label ability 1
+3 instance label ability 1
+2 instance label 1
+3 match instance label 1
+2 match instance 1
+1 match 1
+3 learn match instance 1
+2 learn match 1
+3 trying learn match 1
+2 trying learn 1
+3 function trying learn 1
+2 function trying 1
+3 function function trying 1
+2 function function 1
+3 target function function 1
+2 target function 1
+3 images target function 1
+2 images target 1
+3 images images target 1
+3 subset images images 1
+2 subset images 1
+3 images subset images 1
+2 images subset 1
+3 images images subset 1
+3 instance images images 1
+2 instance images 1
+3 objects instance images 1
+2 objects instance 1
+3 subset objects instance 1
+2 subset objects 1
+3 concept subset objects 1
+2 concept subset 1
+3 image concept subset 1
+2 image concept 1
+3 subject image concept 1
+2 subject image 1
+1 subject 1
+3 object subject image 1
+2 object subject 1
+1 object 1
+3 trying object subject 1
+2 trying object 1
+3 youre trying object 1
+2 youre trying 1
+3 suppose youre trying 1
+2 suppose youre 1
+3 concept suppose youre 1
+2 concept suppose 1
+3 output concept suppose 1
+2 output concept 1
+3 value output concept 1
+2 value output 1
+3 input value output 1
+2 input value 1
+3 value input value 1
+2 value input 1
+3 example value input 1
+2 example value 1
+3 feature example value 1
+3 describe feature example 1
+2 describe feature 1
+3 objects describe feature 1
+2 objects describe 1
+3 set objects describe 1
+2 set objects 1
+3 space set objects 1
+3 instant space set 1
+2 instant space 1
+3 vector instant space 1
+2 vector instant 1
+3 feature vector instant 1
+2 feature vector 1
+3 comprise feature vector 1
+2 comprise feature 1
+3 features comprise feature 1
+2 features comprise 1
+3 set features comprise 1
+3 describe instance set 1
+3 attributes describe instance 1
+2 attributes describe 1
+3 traits attributes describe 1
+2 traits attributes 1
+1 traits 1
+3 distinct traits attributes 1
+2 distinct traits 1
+1 distinct 1
+3 features distinct traits 1
+2 features distinct 1
+3 terminology features distinct 1
+2 terminology features 1
+1 terminology 1
+3 basic terminology features 1
+2 basic terminology 1
+1 basic 1
+3 look basic terminology 1
+2 look basic 1
+3 detail look basic 1
+2 detail look 1
+3 talk detail look 1
+3 example talk detail 1
+2 example talk 1
+3 training example talk 1
+3 probable training example 1
+2 probable training 1
+1 probable 1
+3 space probable training 1
+2 space probable 1
+3 hypothesis space probable 1
+3 space function hypothesis 1
+2 space function 1
+3 hypothesis space function 1
+3 comprise hypothesis space 1
+2 comprise hypothesis 1
+3 functions comprise hypothesis 1
+2 functions comprise 1
+3 set functions comprise 1
+2 set functions 1
+3 learning set functions 1
+3 functions supervised learning 1
+2 functions supervised 1
+3 candidate functions supervised 1
+2 candidate functions 1
+3 outputs candidate functions 1
+2 outputs candidate 1
+1 outputs 1
+3 candidate outputs candidate 1
+2 candidate outputs 1
+3 set candidate outputs 1
+2 set candidate 1
+3 space set candidate 1
+3 hypothesis space set 1
+3 type function hypothesis 1
+2 type function 1
+3 network type function 1
+2 network type 1
+3 multilevel network type 1
+2 multilevel network 1
+1 multilevel 1
+3 class multilevel network 1
+2 class multilevel 1
+3 talk class multilevel 1
+2 talk class 1
+3 network talk class 1
+2 network talk 1
+3 neural network talk 1
+2 neural network 1
+1 neural 1
+3 unit neural network 1
+2 unit neural 1
+1 unit 1
+3 perceptron unit neural 1
+2 perceptron unit 1
+1 perceptron 1
+3 layer perceptron unit 1
+2 layer perceptron 1
+1 layer 1
+3 single layer perceptron 1
+2 single layer 1
+1 single 1
+3 picture single layer 1
+2 picture single 1
+3 shown picture single 1
+2 shown picture 1
+3 function shown picture 1
+2 function shown 1
+3 linear function shown 1
+3 multivariate linear function 1
+2 multivariate linear 1
+1 multivariate 1
+3 functions multivariate linear 1
+2 functions multivariate 1
+3 tree functions multivariate 1
+2 tree functions 1
+3 decision tree functions 1
+3 linear function decision 1
+3 week linear function 1
+2 week linear 1
+3 talk week linear 1
+2 talk week 1
+3 tree talk week 1
+2 tree talk 1
+3 decision tree talk 1
+3 attributes function decision 1
+2 attributes function 1
+3 terms attributes function 1
+2 terms attributes 1
+3 function terms attributes 1
+2 function terms 1
+3 linear function terms 1
+3 sim linear function 1
+2 sim linear 1
+1 sim 1
+3 beer sim linear 1
+2 beer sim 1
+1 beer 1
+3 tan beer sim 1
+2 tan beer 1
+1 tan 1
+3 class tan beer 1
+2 class tan 1
+3 function class tan 1
+3 detail function class 1
+2 detail function 1
+3 talk detail function 1
+3 class talk detail 1
+2 class talk 1
+3 function class talk 1
+3 features function class 1
+2 features function 1
+3 function features function 1
+2 function features 1
+3 representation function features 1
+2 representation function 1
+1 representation 1
+3 look representation function 1
+2 look representation 1
+3 theater look representation 1
+2 theater look 1
+1 theater 1
+3 images theater look 1
+2 images theater 1
+3 labeled images theater 1
+2 labeled images 1
+3 people labeled images 1
+2 people labeled 1
+3 humans people labeled 1
+2 humans people 1
+1 humans 1
+3 human humans people 1
+2 human humans 1
+1 human 1
+3 images human humans 1
+2 images human 1
+3 set images human 1
+2 set images 1
+3 data set images 1
+2 data set 1
+3 recognition data set 1
+2 recognition data 1
+3 image recognition data 1
+3 funny image recognition 1
+2 funny image 1
+1 funny 1
+3 set funny image 1
+2 set funny 1
+3 trading set funny 1
+2 trading set 1
+1 trading 1
+3 forms trading set 1
+2 forms trading 1
+1 forms 1
+3 names forms trading 1
+2 names forms 1
+3 company names forms 1
+3 notated company names 1
+2 notated company 1
+1 notated 1
+3 manually notated company 1
+2 manually notated 1
+1 manually 1
+3 text manually notated 1
+2 text manually 1
+3 text text manually 1
+2 text text 1
+3 names text text 1
+3 disease finding company 1
+2 disease finding 1
+3 heart disease finding 1
+3 look heart disease 1
+2 look heart 1
+3 wait look heart 1
+2 wait look 1
+3 disease wait look 1
+2 disease wait 1
+3 heart disease wait 1
+3 patient heart disease 1
+2 patient heart 1
+3 wait patient heart 1
+2 wait patient 1
+3 patient wait patient 1
+2 patient wait 1
+3 parameters patient wait 1
+2 parameters patient 1
+1 parameters 1
+3 patient parameters patient 1
+2 patient parameters 1
+3 data patient parameters 1
+2 data patient 1
+3 seen data patient 1
+2 seen data 1
+1 seen 1
+3 diagnosis seen data 1
+2 diagnosis seen 1
+3 medical diagnosis seen 1
+3 example medical diagnosis 1
+2 example medical 1
+3 learning example medical 1
+2 learning example 1
+3 data learning example 1
+3 distribution data learning 1
+2 distribution data 1
+3 examples distribution data 1
+3 goes examples distribution 1
+2 goes examples 1
+3 stances goes examples 1
+2 stances goes 1
+1 stances 1
+3 tested stances goes 1
+2 tested stances 1
+1 tested 1
+3 expected tested stances 1
+2 expected tested 1
+1 expected 1
+3 distribution expected tested 1
+2 distribution expected 1
+3 drawn distribution expected 1
+2 drawn distribution 1
+1 drawn 1
+3 examples drawn distribution 1
+2 examples drawn 1
+3 training examples drawn 1
+3 distribution training examples 1
+2 distribution training 1
+3 fix distribution training 1
+2 fix distribution 1
+1 fix 1
+3 distribution fix distribution 1
+2 distribution fix 1
+3 examples distribution fix 1
+3 truth examples distribution 1
+2 truth examples 1
+1 truth 1
+3 ground truth examples 1
+2 ground truth 1
+1 ground 1
+3 examples ground truth 1
+2 examples ground 1
+3 training examples ground 1
+3 phonics training examples 1
+2 phonics training 1
+1 phonics 1
+3 levels phonics training 1
+2 levels phonics 1
+1 levels 1
+3 examples levels phonics 1
+2 examples levels 1
+3 labeled examples levels 1
+2 labeled examples 1
+3 set labeled examples 1
+2 set labeled 1
+3 experience set labeled 1
+2 experience set 1
+1 experience 1
+3 prediction experience set 1
+2 prediction experience 1
+3 wrong prediction experience 1
+3 metric probability wrong 1
+2 metric probability 1
+3 performance metric probability 1
+3 predictions performance metric 1
+2 predictions performance 1
+3 set predictions performance 1
+3 dn output set 1
+2 dn output 1
+3 devonda dn output 1
+3 input instances devonda 1
+2 input instances 1
+3 set input instances 1
+3 set set input 1
+2 set set 1
+3 army set set 1
+2 army set 1
+1 army 1
+3 comprises army set 1
+2 comprises army 1
+3 ass comprises army 1
+2 ass comprises 1
+1 ass 1
+3 learning ass comprises 1
+2 learning ass 1
+3 classification learning ass 1
+3 lights classification learning 1
+2 lights classification 1
+1 lights 1
+3 drone lights classification 1
+2 drone lights 1
+1 drone 1
+3 instances drone lights 1
+2 instances drone 1
+3 distribution instances drone 1
+2 distribution instances 1
+3 examples distribution instances 1
+3 error examples distribution 1
+2 error examples 1
+1 error 1
+3 prediction error examples 1
+2 prediction error 1
+3 wrong prediction error 1
+3 accuracy probability wrong 1
+2 accuracy probability 1
+1 accuracy 1
+3 weve accuracy probability 1
+2 weve accuracy 1
+1 weve 1
+3 metric weve accuracy 1
+2 metric weve 1
+3 performance metric weve 1
+3 probability performance metric 1
+2 probability performance 1
+3 prediction probability performance 1
+2 prediction probability 1
+3 wrong prediction probability 1
+3 learning probability wrong 1
+2 learning probability 1
+3 classification learning probability 1
+3 metric classification learning 1
+2 metric classification 1
+3 performance metric classification 1
+3 house performance metric 1
+2 house performance 1
+3 image house performance 1
+2 image house 1
+3 image image house 1
+2 image image 1
+3 output image image 1
+2 output image 1
+3 color output image 1
+2 color output 1
+1 color 1
+3 pixel color output 1
+2 pixel color 1
+1 pixel 1
+3 pixels pixel color 1
+2 pixels pixel 1
+1 pixels 1
+3 image pixels pixel 1
+2 image pixels 1
+3 input image pixels 1
+2 input image 1
+3 recognition input image 1
+2 recognition input 1
+3 image recognition input 1
+3 th image recognition 1
+2 th image 1
+1 th 1
+3 look th image 1
+2 look th 1
+3 similarly look th 1
+2 similarly look 1
+1 similarly 1
+3 labels similarly look 1
+2 labels similarly 1
+3 finding labels similarly 1
+2 finding labels 1
+3 learning finding labels 1
+2 learning finding 1
+3 machine learning finding 1
+3 text machine learning 1
+2 text machine 1
+3 names text machine 1
+3 label company names 1
+2 label company 1
+3 convention label company 1
+2 convention label 1
+1 convention 1
+3 sort convention label 1
+2 sort convention 1
+3 sort sort convention 1
+2 sort sort 1
+3 outside sort sort 1
+2 outside sort 1
+3 name outside sort 1
+3 acrid company name 1
+2 acrid company 1
+1 acrid 1
+3 word acrid company 1
+2 word acrid 1
+3 name word acrid 1
+3 word name word 1
+3 company name word 1
+3 zed company name 1
+2 zed company 1
+1 zed 1
+3 xy zed company 1
+2 xy zed 1
+1 xy 1
+3 legacy xy zed 1
+2 legacy xy 1
+1 legacy 1
+3 name legacy xy 1
+2 name legacy 1
+3 word name legacy 1
+3 letter word name 1
+2 letter word 1
+1 letter 1
+3 name letter word 1
+2 name letter 1
+3 word name letter 1
+3 company word name 1
+2 company word 1
+3 name company word 1
+3 corporation name company 1
+2 corporation name 1
+3 microsoft corporation name 1
+3 xyz microsoft corporation 1
+2 xyz microsoft 1
+1 xyz 1
+3 accurate xyz microsoft 1
+2 accurate xyz 1
+1 accurate 1
+3 corporation accurate xyz 1
+2 corporation accurate 1
+3 microsoft corporation accurate 1
+3 text microsoft corporation 1
+2 text microsoft 1
+3 atlanta text microsoft 1
+2 atlanta text 1
+1 atlanta 1
+3 example atlanta text 1
+2 example atlanta 1
+3 name example atlanta 1
+2 name example 1
+3 company name example 1
+3 name outside company 1
+3 inside company name 1
+2 inside company 1
+3 name inside company 1
+2 name inside 1
+3 word name inside 1
+3 name name word 1
+2 name name 1
+3 company name name 1
+3 labels outside company 1
+2 labels outside 1
+3 output labels outside 1
+2 output labels 1
+3 achmed output labels 1
+2 achmed output 1
+1 achmed 1
+3 contains achmed output 1
+2 contains achmed 1
+3 word contains achmed 1
+2 word contains 1
+3 previous word contains 1
+2 previous word 1
+1 previous 1
+3 words previous word 1
+2 words previous 1
+3 gram words previous 1
+2 gram words 1
+1 gram 1
+3 word gram words 1
+2 word gram 1
+3 following word gram 1
+2 following word 1
+1 following 1
+3 word following word 1
+2 word following 1
+3 capitalized word following 1
+2 capitalized word 1
+1 capitalized 1
+3 word capitalized word 1
+2 word capitalized 1
+3 example word capitalized 1
+2 example word 1
+3 word example word 1
+2 word example 1
+3 features word example 1
+2 features word 1
+3 maybe features word 1
+2 maybe features 1
+3 word maybe features 1
+2 word maybe 1
+3 words word maybe 1
+3 word words word 1
+2 word words 1
+3 words word words 1
+3 mitch words word 1
+2 mitch words 1
+1 mitch 1
+3 word mitch words 1
+2 word mitch 1
+3 context word mitch 1
+2 context word 1
+1 context 1
+3 word context word 1
+2 word context 1
+3 instance word context 1
+2 instance word 1
+3 mine instance word 1
+2 mine instance 1
+1 mine 1
+3 text mine instance 1
+2 text mine 1
+3 tasking text mine 1
+2 tasking text 1
+1 tasking 1
+3 recognition tasking text 1
+2 recognition tasking 1
+3 entity recognition tasking 1
+2 entity recognition 1
+1 entity 1
+3 company entity recognition 1
+2 company entity 1
+3 name company entity 1
+3 word name company 1
+3 particular word name 1
+2 particular word 1
+3 name particular word 1
+2 name particular 1
+3 particular name particular 1
+2 particular name 1
+3 text particular name 1
+2 text particular 1
+3 names text particular 1
+3 examples finding company 1
+2 examples finding 1
+3 plus examples finding 1
+2 plus examples 1
+3 negative plus examples 1
+3 class negative plus 1
+2 class negative 1
+3 positive class negative 1
+2 positive class 1
+3 plus positive class 1
+2 plus positive 1
+3 negative plus positive 1
+3 plus negative plus 1
+2 plus negative 1
+3 positive plus negative 1
+2 positive plus 1
+3 im positive plus 1
+2 im positive 1
+3 classes im positive 1
+2 classes im 1
+3 disease classes im 1
+2 disease classes 1
+3 heart disease classes 1
+3 disease risk heart 1
+2 disease risk 1
+3 heart disease risk 1
+3 low risk heart 1
+2 low risk 1
+1 low 1
+3 person low risk 1
+2 person low 1
+3 labels person low 1
+2 labels person 1
+3 patient labels person 1
+2 patient labels 1
+3 cholesterol patient labels 1
+2 cholesterol patient 1
+1 cholesterol 1
+3 patient cholesterol patient 1
+2 patient cholesterol 1
+3 bmi patient cholesterol 1
+2 bmi patient 1
+1 bmi 1
+3 patient bmi patient 1
+2 patient bmi 1
+3 sex patient bmi 1
+2 sex patient 1
+1 sex 1
+3 patient sex patient 1
+2 patient sex 1
+3 age patient sex 1
+2 age patient 1
+1 age 1
+3 systolic age patient 1
+2 systolic age 1
+1 systolic 1
+3 diastolic systolic age 1
+2 diastolic systolic 1
+1 diastolic 1
+3 pressure diastolic systolic 1
+2 pressure diastolic 1
+1 pressure 1
+3 blood pressure diastolic 1
+2 blood pressure 1
+3 features blood pressure 1
+2 features blood 1
+3 comprising features blood 1
+2 comprising features 1
+3 record comprising features 1
+2 record comprising 1
+1 record 1
+3 patient record comprising 1
+2 patient record 1
+3 instance patient record 1
+2 instance patient 1
+3 diagnosis instance patient 1
+2 diagnosis instance 1
+3 medical diagnosis instance 1
+3 task medical diagnosis 1
+2 task medical 1
+3 tasks task medical 1
+2 tasks task 1
+1 tasks 1
+3 classification tasks task 1
+2 classification tasks 1
+3 sample classification tasks 1
+2 sample classification 1
+3 look sample classification 1
+2 look sample 1
+3 watch look sample 1
+2 watch look 1
+1 watch 1
+3 inputs watch look 1
+2 inputs watch 1
+1 inputs 1
+3 predictions inputs watch 1
+2 predictions inputs 1
+3 set predictions inputs 1
+3 expand output set 1
+2 expand output 1
+3 equal expand output 1
+2 equal expand 1
+3 vector equal expand 1
+2 vector equal 1
+3 instance vector equal 1
+2 instance vector 1
+3 represent instance vector 1
+2 represent instance 1
+1 represent 1
+3 features represent instance 1
+2 features represent 1
+3 set features represent 1
+3 dn instance set 1
+2 dn instance 1
+3 devonda dn instance 1
+3 set instances devonda 1
+2 set instances 1
+3 input set instances 1
+2 input set 1
+3 comprises input set 1
+2 comprises input 1
+3 tosti comprises input 1
+2 tosti comprises 1
+1 tosti 1
+3 im tosti comprises 1
+2 im tosti 1
+3 expediency im tosti 1
+2 expediency im 1
+1 expediency 1
+3 metric expediency im 1
+2 metric expediency 1
+3 performance metric expediency 1
+3 theres performance metric 1
+2 theres performance 1
+1 theres 1
+3 output theres performance 1
+2 output theres 1
+3 input output theres 1
+3 task input output 1
+2 task input 1
+3 components task input 1
+2 components task 1
+1 components 1
+3 learning components task 1
+2 learning components 1
+3 classification learning components 1
+3 label classification learning 1
+2 label classification 1
+3 model label classification 1
+2 model label 1
+3 classified model label 1
+2 classified model 1
+3 feed classified model 1
+2 feed classified 1
+3 features feed classified 1
+2 features feed 1
+3 extract features feed 1
+3 extractor extract features 1
+2 extractor extract 1
+1 extractor 1
+3 feature extractor extract 1
+2 feature extractor 1
+3 input feature extractor 1
+2 input feature 1
+3 phase input feature 1
+3 testing phase input 1
+3 seminal testing phase 1
+2 seminal testing 1
+1 seminal 1
+3 learning seminal testing 1
+2 learning seminal 1
+3 machine learning seminal 1
+3 feed machine learning 1
+2 feed machine 1
+3 input feed machine 1
+2 input feed 1
+3 features input feed 1
+3 extract features input 1
+3 input extract features 1
+2 input extract 1
+3 label input extract 1
+2 label input 1
+3 input label input 1
+2 input label 1
+3 phase input label 1
+3 training phase input 1
+2 training phase 1
+3 shown training phase 1
+2 shown training 1
+3 value shown training 1
+2 value shown 1
+3 predict value shown 1
+2 predict value 1
+3 hypothesis predict value 1
+2 hypothesis predict 1
+3 instance hypothesis predict 1
+2 instance hypothesis 1
+3 phase instance hypothesis 1
+2 phase instance 1
+3 testing phase instance 1
+3 detail testing phase 1
+2 detail testing 1
+3 storm detail testing 1
+2 storm detail 1
+1 storm 1
+3 introduce storm detail 1
+2 introduce storm 1
+3 hypothesis introduce storm 1
+2 hypothesis introduce 1
+3 model hypothesis introduce 1
+2 model hypothesis 1
+3 set model hypothesis 1
+2 set model 1
+3 training set model 1
+3 muses training set 1
+2 muses training 1
+1 muses 1
+3 lining muses training 1
+2 lining muses 1
+1 lining 1
+3 set lining muses 1
+2 set lining 1
+3 training set lining 1
+3 learning training set 1
+3 width schematic diagram 1
+2 width schematic 1
+3 length width schematic 1
+3 thread length width 1
+2 thread length 1
+1 thread 1
+3 value thread length 1
+2 value thread 1
+3 week value thread 1
+2 week value 1
+3 selling week value 1
+2 selling week 1
+1 selling 1
+3 skip selling week 1
+2 skip selling 1
+1 skip 1
+3 user skip selling 1
+2 user skip 1
+3 user user skip 1
+2 user user 1
+3 action user user 1
+2 action user 1
+3 predict action user 1
+2 predict action 1
+3 suppose predict action 1
+2 suppose predict 1
+3 feature suppose predict 1
+2 feature suppose 1
+3 output feature suppose 1
+2 output feature 1
+3 predict output feature 1
+2 predict output 1
+3 instance predict output 1
+2 instance predict 1
+3 model instance predict 1
+2 model instance 1
+3 learn model instance 1
+2 learn model 1
+3 instances learn model 1
+2 instances learn 1
+3 label instances learn 1
+2 label instances 1
+3 comprising label instances 1
+2 comprising label 1
+3 examples comprising label 1
+2 examples comprising 1
+3 training examples comprising 1
+3 based training examples 1
+2 based training 1
+3 home based training 1
+2 home based 1
+1 home 1
+3 person home based 1
+2 person home 1
+3 life person home 1
+2 life person 1
+1 life 1
+3 author life person 1
+2 author life 1
+3 escapes author life 1
+2 escapes author 1
+1 escapes 1
+3 action escapes author 1
+2 action escapes 1
+3 instance action escapes 1
+2 instance action 1
+3 instances instance action 1
+3 roles instances instance 1
+2 roles instances 1
+1 roles 1
+3 width roles instances 1
+2 width roles 1
+3 length width roles 1
+3 fred length width 1
+2 fred length 1
+1 fred 1
+3 author fred length 1
+2 author fred 1
+3 action author fred 1
+2 action author 1
+3 features action author 1
+2 features action 1
+3 examples features action 1
+2 examples features 1
+3 training examples features 1
+3 examples training examples 1
+3 sample training examples 1
+2 sample training 1
+3 table sample training 1
+2 table sample 1
+1 table 1
+3 look table sample 1
+2 look table 1
+3 height look table 1
+2 height look 1
+1 height 1
+3 valued height look 1
+2 valued height 1
+3 real valued height 1
+2 real valued 1
+1 real 1
+3 feature real valued 1
+2 feature real 1
+3 text feature real 1
+2 text feature 1
+3 words text feature 1
+2 words text 1
+3 teachers words text 1
+2 teachers words 1
+1 teachers 1
+3 features teachers words 1
+2 features teachers 1
+3 medium features teachers 1
+2 medium features 1
+1 medium 1
+3 ordinal medium features 1
+2 ordinal medium 1
+1 ordinal 1
+3 features ordinal medium 1
+2 features ordinal 1
+3 etc features ordinal 1
+2 etc features 1
+1 etc 1
+3 malefemale etc features 1
+2 malefemale etc 1
+1 malefemale 1
+3 values malefemale etc 1
+2 values malefemale 1
+3 feature values malefemale 1
+2 feature values 1
+3 gender feature values 1
+2 gender feature 1
+1 gender 1
+3 bo gender feature 1
+2 bo gender 1
+1 bo 1
+3 aba bo gender 1
+2 aba bo 1
+1 aba 1
+3 vandals aba bo 1
+2 vandals aba 1
+1 vandals 1
+3 feature vandals aba 1
+2 feature vandals 1
+3 blood feature vandals 1
+2 blood feature 1
+3 example blood feature 1
+2 example blood 1
+3 categorical example blood 1
+2 categorical example 1
+1 categorical 1
+3 features categorical example 1
+2 features categorical 1
+3 types features categorical 1
+2 types features 1
+3 various types features 1
+2 various types 1
+1 various 1
+3 features various types 1
+2 features various 1
+3 prediction features various 1
+2 prediction features 1
+3 enable prediction features 1
+2 enable prediction 1
+1 enable 1
+3 centimeters enable prediction 1
+2 centimeters enable 1
+1 centimeters 1
+3 test centimeters enable 1
+2 test centimeters 1
+3 patient test centimeters 1
+2 patient test 1
+3 disease patient test 1
+2 disease patient 1
+3 predict disease patient 1
+2 predict disease 1
+3 price predict disease 1
+2 price predict 1
+3 help price predict 1
+2 help price 1
+1 help 1
+3 features help price 1
+2 features help 1
+3 house features help 1
+2 house features 1
+3 price house features 1
+3 car price house 1
+2 car price 1
+3 price car price 1
+3 protect price car 1
+2 protect price 1
+1 protect 1
+3 features protect price 1
+2 features protect 1
+3 called features protect 1
+2 called features 1
+3 properties called features 1
+2 properties called 1
+1 properties 1
+3 quantifiable properties called 1
+2 quantifiable properties 1
+1 quantifiable 1
+3 set quantifiable properties 1
+2 set quantifiable 1
+3 analyzed set quantifiable 1
+2 analyzed set 1
+1 analyzed 1
+3 observations analyzed set 1
+2 observations analyzed 1
+1 observations 1
+3 role observations analyzed 1
+2 role observations 1
+1 role 1
+3 play role observations 1
+2 play role 1
+1 play 1
+3 features play role 1
+2 features play 1
+3 instance features play 1
+2 instance features 1
+3 describe instance features 1
+3 marvel describe instance 1
+2 marvel describe 1
+1 marvel 1
+3 water marvel describe 1
+2 water marvel 1
+3 parameter water marvel 1
+2 parameter water 1
+1 parameter 1
+3 instance parameter water 1
+2 instance parameter 1
+3 input instance parameter 1
+2 input instance 1
+3 input input instance 1
+2 input input 1
+3 function input input 1
+2 function input 1
+3 immigration function input 1
+2 immigration function 1
+1 immigration 1
+3 price immigration function 1
+2 price immigration 1
+3 predict price immigration 1
+3 mileages predict price 1
+2 mileages predict 1
+1 mileages 1
+3 card mileages predict 1
+2 card mileages 1
+1 card 1
+3 function card mileages 1
+2 function card 1
+3 data function card 1
+2 data function 1
+3 cars data function 1
+2 cars data 1
+1 cars 1
+3 price cars data 1
+2 price cars 1
+3 mileage price cars 1
+2 mileage price 1
+3 price mileage price 1
+2 price mileage 1
+3 corresponding price mileage 1
+2 corresponding price 1
+3 mileage corresponding price 1
+2 mileage corresponding 1
+3 car mileage corresponding 1
+2 car mileage 1
+3 particular car mileage 1
+2 particular car 1
+3 correspond particular car 1
+2 correspond particular 1
+1 correspond 1
+3 times correspond particular 1
+2 times correspond 1
+1 times 1
+3 price times correspond 1
+2 price times 1
+3 predicting price times 1
+2 predicting price 1
+1 predicting 1
+3 youre predicting price 1
+2 youre predicting 1
+3 mileage youre predicting 1
+2 mileage youre 1
+3 based mileage youre 1
+2 based mileage 1
+3 car based mileage 1
+2 car based 1
+3 mileage car based 1
+2 mileage car 1
+3 looking mileage car 1
+2 looking mileage 1
+1 looking 1
+3 example looking mileage 1
+2 example looking 1
+3 price example looking 1
+2 price example 1
+3 predict price example 1
+3 car predict price 1
+2 car predict 1
+3 attributes car predict 1
+2 attributes car 1
+3 car attributes car 1
+2 car attributes 1
+3 price car attributes 1
+3 regression price car 1
+2 regression price 1
+3 example regression price 1
+2 example regression 1
+3 look example regression 1
+2 look example 1
+3 vegas look example 1
+2 vegas look 1
+1 vegas 1
+3 realize vegas look 1
+2 realize vegas 1
+1 realize 1
+3 data realize vegas 1
+2 data realize 1
+3 based data realize 1
+3 rule based data 1
+2 rule based 1
+3 highrisk rule based 1
+2 highrisk rule 1
+1 highrisk 1
+3 awesomeness highrisk rule 1
+2 awesomeness highrisk 1
+1 awesomeness 1
+3 sleep awesomeness highrisk 1
+2 sleep awesomeness 1
+1 sleep 1
+3 laura sleep awesomeness 1
+2 laura sleep 1
+1 laura 1
+3 person laura sleep 1
+2 person laura 1
+3 tattoo person laura 1
+2 tattoo person 1
+1 tattoo 1
+3 savings tattoo person 1
+2 savings tattoo 1
+3 peter savings tattoo 1
+2 peter savings 1
+1 peter 1
+3 income peter savings 1
+2 income peter 1
+3 found income peter 1
+2 found income 1
+1 found 1
+3 rule found income 1
+2 rule found 1
+3 example rule found 1
+2 example rule 1
+3 lowest example rule 1
+2 lowest example 1
+1 lowest 1
+3 person lowest example 1
+2 person lowest 1
+3 predict person lowest 1
+3 tributes person predict 1
+2 tributes person 1
+1 tributes 1
+3 classified tributes person 1
+2 classified tributes 1
+3 data classified tributes 1
+2 data classified 1
+3 dont data classified 1
+2 dont data 1
+1 dont 1
+3 plus dont data 1
+2 plus dont 1
+3 labeled plus dont 1
+2 labeled plus 1
+3 persons labeled plus 1
+3 norris persons labeled 1
+2 norris persons 1
+1 norris 1
+3 minors norris persons 1
+2 minors norris 1
+1 minors 1
+3 labeled minors norris 1
+2 labeled minors 1
+3 persons labeled minors 1
+3 picture persons labeled 1
+2 picture persons 1
+3 seeing picture persons 1
+2 seeing picture 1
+1 seeing 1
+3 person seeing picture 1
+2 person seeing 1
+3 lotus person seeing 1
+2 lotus person 1
+1 lotus 1
+3 person lotus person 1
+2 person lotus 1
+3 predict person lotus 1
+3 savings person predict 1
+3 income savings person 1
+2 income savings 1
+3 look income savings 1
+2 look income 1
+3 person look income 1
+2 person look 1
+3 savings person look 1
+3 tom savings person 1
+2 tom savings 1
+1 tom 1
+3 features tom savings 1
+2 features tom 1
+3 terms features tom 1
+3 input terms features 1
+2 input terms 1
+3 describing input terms 1
+2 describing input 1
+1 describing 1
+3 suppose describing input 1
+2 suppose describing 1
+3 scoring suppose describing 1
+2 scoring suppose 1
+1 scoring 1
+3 credit scoring suppose 1
+2 credit scoring 1
+1 credit 1
+3 example credit scoring 1
+2 example credit 1
+3 classification example credit 1
+2 classification example 1
+3 examples classification example 1
+2 examples classification 1
+3 look examples classification 1
+2 look examples 1
+3 aggression look examples 1
+2 aggression look 1
+1 aggression 1
+3 called aggression look 1
+2 called aggression 1
+3 value called aggression 1
+2 value called 1
+3 managerial value called 1
+2 managerial value 1
+1 managerial 1
+3 continuous managerial value 1
+2 continuous managerial 1
+3 house continuous managerial 1
+2 house continuous 1
+3 price house continuous 1
+3 bedrooms features predict 1
+2 bedrooms features 1
+1 bedrooms 1
+3 house bedrooms features 1
+2 house bedrooms 1
+3 floor house bedrooms 1
+2 floor house 1
+1 floor 1
+3 house floor house 1
+2 house floor 1
+3 location house floor 1
+2 location house 1
+1 location 1
+3 house location house 1
+2 house location 1
+3 price house location 1
+3 values features predict 1
+2 values features 1
+3 suppose values features 1
+2 suppose values 1
+3 regression suppose values 1
+2 regression suppose 1
+3 call regression suppose 1
+2 call regression 1
+1 call 1
+3 featured call regression 1
+2 featured call 1
+1 featured 1
+3 valued featured call 1
+2 valued featured 1
+3 continuous valued featured 1
+2 continuous valued 1
+3 disease continuous valued 1
+2 disease continuous 1
+3 particular disease continuous 1
+2 particular disease 1
+3 patient particular disease 1
+2 patient particular 1
+3 predict patient particular 1
+2 predict patient 1
+3 patient predict patient 1
+2 patient predict 1
+3 symptoms patient predict 1
+2 symptoms patient 1
+1 symptoms 1
+3 feature symptoms patient 1
+2 feature symptoms 1
+3 valued feature symptoms 1
+3 classification discrete valued 1
+3 tomorrow classification discrete 1
+2 tomorrow classification 1
+1 tomorrow 1
+3 rain tomorrow classification 1
+2 rain tomorrow 1
+3 feature rain tomorrow 1
+2 feature rain 1
+3 valued feature rain 1
+3 example discrete valued 1
+2 example discrete 1
+3 value example discrete 1
+2 value example 1
+3 continuous value example 1
+2 continuous value 1
+3 value continuous value 1
+2 value continuous 1
+3 discrete value continuous 1
+3 classification discrete value 1
+3 equal classification discrete 1
+2 equal classification 1
+3 chat equal classification 1
+2 chat equal 1
+1 chat 1
+3 value chat equal 1
+2 value chat 1
+3 discrete value chat 1
+3 feature discrete value 1
+2 feature discrete 1
+3 continuous feature discrete 1
+2 continuous feature 1
+3 feature continuous feature 1
+2 feature continuous 1
+3 valued feature continuous 1
+3 discreet valued feature 1
+2 discreet valued 1
+1 discreet 1
+3 feature discreet valued 1
+2 feature discreet 1
+3 target feature discreet 1
+3 corresponding target feature 1
+2 corresponding target 1
+3 output corresponding target 1
+3 zetten output corresponding 1
+2 zetten output 1
+1 zetten 1
+3 van zetten output 1
+2 van zetten 1
+1 van 1
+3 attributes van zetten 1
+2 attributes van 1
+3 values attributes van 1
+2 values attributes 1
+3 instance values attributes 1
+2 instance values 1
+3 test instance values 1
+3 instance test instance 1
+2 instance test 1
+3 test instance test 1
+3 test test instance 1
+2 test test 1
+3 examples test test 1
+2 examples test 1
+3 training examples test 1
+3 time training examples 1
+2 time training 1
+3 testing time training 1
+2 testing time 1
+3 training testing time 1
+2 training testing 1
+3 value training testing 1
+2 value training 1
+3 value value training 1
+2 value value 1
+3 stream value value 1
+2 stream value 1
+1 stream 1
+3 instant stream value 1
+2 instant stream 1
+3 example instant stream 1
+2 example instant 1
+3 example example instant 1
+2 example example 1
+3 roys example example 1
+2 roys example 1
+1 roys 1
+3 example roys example 1
+2 example roys 1
+3 feature example roys 1
+3 target feature example 1
+3 features target feature 1
+2 features target 1
+3 input features target 1
+3 values input features 1
+2 values input 1
+3 example values input 1
+2 example values 1
+3 training example values 1
+3 examples training example 1
+3 comprises training examples 1
+2 comprises training 1
+3 examples comprises training 1
+2 examples comprises 1
+3 training examples comprises 1
+3 set training examples 1
+2 set training 1
+3 attribute set training 1
+2 attribute set 1
+1 attribute 1
+3 output attribute set 1
+2 output attribute 1
+3 features output attribute 1
+2 features output 1
+3 input features output 1
+3 features input features 1
+3 terms features input 1
+3 described terms features 1
+2 described terms 1
+1 described 1
+3 instances described terms 1
+2 instances described 1
+3 whitely instances described 1
+2 whitely instances 1
+1 whitely 1
+3 venezuelan whitely instances 1
+2 venezuelan whitely 1
+1 venezuelan 1
+3 white venezuelan whitely 1
+2 white venezuelan 1
+1 white 1
+3 corresponding white venezuelan 1
+2 corresponding white 1
+3 instance corresponding white 1
+2 instance corresponding 1
+3 bien instance corresponding 1
+2 bien instance 1
+1 bien 1
+3 stew bien instance 1
+2 stew bien 1
+1 stew 1
+3 instant stew bien 1
+2 instant stew 1
+3 am instant stew 1
+2 am instant 1
+1 am 1
+3 feature am instant 1
+2 feature am 1
+3 values feature am 1
+2 values feature 1
+3 comprises values feature 1
+3 suppose instance comprises 1
+2 suppose instance 1
+3 values suppose instance 1
+2 values suppose 1
+3 comprises values suppose 1
+3 instances instance comprises 1
+3 picture instances instance 1
+2 picture instances 1
+3 target picture instances 1
+2 target picture 1
+3 instances target picture 1
+2 instances target 1
+3 describe instances target 1
+2 describe instances 1
+3 respect describe instances 1
+2 respect describe 1
+1 respect 1
+3 features respect describe 1
+2 features respect 1
+3 visit features respect 1
+2 visit features 1
+1 visit 1
+3 expand visit features 1
+2 expand visit 1
+3 features expand visit 1
+2 features expand 1
+3 features features expand 1
+2 features features 1
+3 input features features 1
+3 set input features 1
+3 learning set input 1
+3 details supervised learning 1
+2 details supervised 1
+3 look details supervised 1
+2 look details 1
+3 learning look details 1
+2 learning look 1
+3 unsupervised learning look 1
+3 time unsupervised learning 1
+2 time unsupervised 1
+3 spend time unsupervised 1
+2 spend time 1
+1 spend 1
+3 learning spend time 1
+2 learning spend 1
+3 supervised learning spend 1
+3 course supervised learning 1
+2 course supervised 1
+3 class course supervised 1
+2 class course 1
+3 todays class course 1
+2 todays class 1
+3 learning todays class 1
+2 learning todays 1
+3 reinforcement learning todays 1
+3 details reinforcement learning 1
+2 details reinforcement 1
+3 talk details reinforcement 1
+2 talk details 1
+3 people talk details 1
+2 people talk 1
+3 learning people talk 1
+2 learning people 1
+3 forcement learning people 1
+3 optimized rain forcement 1
+2 optimized rain 1
+3 horizon optimized rain 1
+2 horizon optimized 1
+1 horizon 1
+3 time horizon optimized 1
+2 time horizon 1
+3 entire time horizon 1
+2 entire time 1
+1 entire 1
+3 agent entire time 1
+2 agent entire 1
+3 utility agent entire 1
+2 utility agent 1
+1 utility 1
+3 overall utility agent 1
+2 overall utility 1
+1 overall 1
+3 optimized overall utility 1
+2 optimized overall 1
+3 reward optimized overall 1
+2 reward optimized 1
+3 shortterm reward optimized 1
+2 shortterm reward 1
+1 shortterm 1
+3 action shortterm reward 1
+2 action shortterm 1
+3 policy action shortterm 1
+2 policy action 1
+1 policy 1
+3 earn policy action 1
+2 earn policy 1
+1 earn 1
+3 learner earn policy 1
+2 learner earn 1
+1 learner 1
+3 forcement learner earn 1
+2 forcement learner 1
+3 rain forcement learner 1
+3 world rain forcement 1
+2 world rain 1
+1 world 1
+3 acting world rain 1
+2 acting world 1
+3 continually acting world 1
+2 continually acting 1
+1 continually 1
+3 agent continually acting 1
+2 agent continually 1
+3 time agent continually 1
+2 time agent 1
+3 particular time agent 1
+2 particular time 1
+3 look particular time 1
+2 look particular 1
+3 penalty look particular 1
+2 penalty look 1
+1 penalty 1
+3 water penalty look 1
+2 water penalty 1
+3 negatively water penalty 1
+2 negatively water 1
+1 negatively 1
+3 positively negatively water 1
+2 positively negatively 1
+1 positively 1
+3 maybe positively negatively 1
+2 maybe positively 1
+3 reward maybe positively 1
+2 reward maybe 1
+3 agent reward maybe 1
+2 agent reward 1
+3 reward agent reward 1
+2 reward agent 1
+3 goes reward agent 1
+2 goes reward 1
+3 environment goes reward 1
+2 environment goes 1
+3 action environment goes 1
+2 action environment 1
+3 agent action environment 1
+3 particular agent action 1
+2 particular agent 1
+3 agent particular agent 1
+2 agent particular 1
+3 based agent particular 1
+2 based agent 1
+3 environment based agent 1
+2 environment based 1
+3 impact environment based 1
+2 impact environment 1
+1 impact 1
+3 action impact environment 1
+2 action impact 1
+3 action action impact 1
+2 action action 1
+3 agent action action 1
+3 environment agent action 1
+2 environment agent 1
+3 acts environment agent 1
+2 acts environment 1
+1 acts 1
+3 agent acts environment 1
+2 agent acts 1
+3 learning agent acts 1
+3 enforcement learning agent 1
+3 learning enforcement learning 1
+2 learning enforcement 1
+3 machine learning enforcement 1
+3 course machine learning 1
+2 course machine 1
+3 introductory course machine 1
+2 introductory course 1
+1 introductory 1
+3 learning introductory course 1
+2 learning introductory 1
+3 enforcement learning introductory 1
+3 cover enforcement learning 1
+2 cover enforcement 1
+1 cover 1
+3 learning cover enforcement 1
+2 learning cover 1
+3 forcement learning cover 1
+3 talked rain forcement 1
+2 talked rain 1
+3 briefly talked rain 1
+2 briefly talked 1
+1 briefly 1
+3 function briefly talked 1
+2 function briefly 1
+3 try function briefly 1
+2 try function 1
+3 data try function 1
+3 label data try 1
+3 addition label data 1
+2 addition label 1
+1 addition 1
+3 data addition label 1
+2 data addition 1
+3 label data addition 1
+3 function label data 1
+2 function label 1
+3 date function label 1
+2 date function 1
+1 date 1
+3 supervised date function 1
+2 supervised date 1
+3 data supervised date 1
+2 data supervised 1
+3 based data supervised 1
+3 learning based data 1
+2 learning based 1
+3 supervised learning based 1
+3 example supervised learning 1
+2 example supervised 1
+3 circles example supervised 1
+2 circles example 1
+1 circles 1
+3 indicated circles example 1
+2 indicated circles 1
+1 indicated 1
+3 data indicated circles 1
+2 data indicated 1
+3 label data indicated 1
+3 classes label data 1
+2 classes label 1
+3 data classes label 1
+2 data classes 1
+3 apart data classes 1
+2 apart data 1
+3 learning apart data 1
+2 learning apart 1
+3 supervised learning apart 1
+3 siamese supervised learning 1
+2 siamese supervised 1
+1 siamese 1
+3 triangle siamese supervised 1
+2 triangle siamese 1
+1 triangle 1
+3 classes triangle siamese 1
+2 classes triangle 1
+3 circle classes triangle 1
+2 circle classes 1
+1 circle 1
+3 classes circle classes 1
+2 classes circle 1
+3 classes classes circle 1
+2 classes classes 1
+3 belong classes classes 1
+2 belong classes 1
+1 belong 1
+3 data belong classes 1
+2 data belong 1
+3 data data belong 1
+3 unlimited label data 1
+2 unlimited label 1
+1 unlimited 1
+3 data unlimited label 1
+2 data unlimited 1
+3 label data unlimited 1
+3 combination label data 1
+2 combination label 1
+3 learning combination label 1
+3 supervised learning combination 1
+3 inside supervised learning 1
+2 inside supervised 1
+3 learning inside supervised 1
+2 learning inside 1
+3 semisupervised learning inside 1
+3 unsupervised learning semisupervised 1
+3 called unsupervised learning 1
+2 called unsupervised 1
+3 data called unsupervised 1
+2 data called 1
+3 titans data called 1
+2 titans data 1
+1 titans 1
+3 similarity titans data 1
+2 similarity titans 1
+1 similarity 1
+3 based similarity titans 1
+2 based similarity 1
+3 data based similarity 1
+2 data based 1
+3 starts data based 1
+2 starts data 1
+1 starts 1
+3 class starts data 1
+2 class starts 1
+3 reproduce class starts 1
+2 reproduce class 1
+1 reproduce 1
+3 album reproduce class 1
+2 album reproduce 1
+1 album 1
+3 learning album reproduce 1
+2 learning album 1
+3 data learning album 1
+3 xn data learning 1
+2 xn data 1
+1 xn 1
+3 access xn data 1
+2 access xn 1
+3 access access xn 1
+2 access access 1
+3 discussed access access 1
+2 discussed access 1
+1 discussed 1
+3 learning discussed access 1
+2 learning discussed 1
+3 unsupervised learning discussed 1
+3 supervised learning unsupervised 1
+3 schematic supervised learning 1
+2 schematic supervised 1
+3 output schematic supervised 1
+2 output schematic 1
+3 model output schematic 1
+2 model output 1
+3 input model output 1
+2 input model 1
+3 observation input model 1
+2 observation input 1
+3 value observation input 1
+2 value observation 1
+3 corresponding value observation 1
+2 corresponding value 1
+3 output corresponding value 1
+3 classify output corresponding 1
+2 classify output 1
+1 classify 1
+3 model classify output 1
+2 model classify 1
+3 water model classify 1
+2 water model 1
+3 learning water model 1
+2 learning water 1
+3 instances learning water 1
+2 instances learning 1
+3 training instances learning 1
+3 instance training instances 1
+3 training instance training 1
+3 instance training instance 1
+3 trending instance training 1
+2 trending instance 1
+1 trending 1
+3 instance trending instance 1
+2 instance trending 1
+3 training instance trending 1
+3 ii training instance 1
+2 ii training 1
+1 ii 1
+3 instance ii training 1
+2 instance ii 1
+3 training instance ii 1
+3 output training instance 1
+2 output training 1
+3 input output training 1
+3 prices input output 1
+2 prices input 1
+1 prices 1
+3 instance prices input 1
+2 instance prices 1
+3 instances instance prices 1
+3 training instances instance 1
+3 instances training instances 1
+2 instances training 1
+3 training instances training 1
+3 contains training instances 1
+2 contains training 1
+3 instances contains training 1
+2 instances contains 1
+3 training instances contains 1
+3 learning training instances 1
+3 picture schematic diagram 1
+2 picture schematic 1
+3 look picture schematic 1
+2 look picture 1
+3 limited look picture 1
+2 limited look 1
+1 limited 1
+3 data limited look 1
+2 data limited 1
+3 training data limited 1
+3 learning training data 1
+3 try learning training 1
+2 try learning 1
+3 data try learning 1
+3 training data try 1
+3 enlabel training data 1
+2 enlabel training 1
+1 enlabel 1
+3 amount enlabel training 1
+2 amount enlabel 1
+1 amount 1
+3 larger amount enlabel 1
+2 larger amount 1
+1 larger 1
+3 data larger amount 1
+2 data larger 1
+3 training data larger 1
+3 labels training data 1
+2 labels training 1
+3 learning labels training 1
+2 learning labels 1
+3 unsupervised learning labels 1
+3 supervisor unsupervised learning 1
+2 supervisor unsupervised 1
+1 supervisor 1
+3 combination supervisor unsupervised 1
+2 combination supervisor 1
+3 learning combination supervisor 1
+3 semisupervised learning combination 1
+3 semisupervised learning semisupervised 1
+3 apart semisupervised learning 1
+2 apart semisupervised 1
+3 agent apart semisupervised 1
+2 agent apart 1
+3 penalties agent apart 1
+2 penalties agent 1
+1 penalties 1
+3 rewards penalties agent 1
+2 rewards penalties 1
+1 rewards 1
+3 based rewards penalties 1
+2 based rewards 1
+3 takes based rewards 1
+2 takes based 1
+1 takes 1
+3 agent takes based 1
+2 agent takes 1
+3 action agent takes 1
+2 action agent 1
+3 step action agent 1
+2 step action 1
+1 step 1
+3 agent step action 1
+2 agent step 1
+3 actions agent step 1
+2 actions agent 1
+1 actions 1
+3 figure actions agent 1
+2 figure actions 1
+1 figure 1
+3 environment figure actions 1
+2 environment figure 1
+3 acting environment figure 1
+2 acting environment 1
+3 agent acting environment 1
+2 agent acting 1
+3 learning agent acting 1
+3 renforcement learning agent 1
+2 renforcement learning 1
+1 renforcement 1
+3 learning renforcement learning 1
+2 learning renforcement 1
+3 reinforcement learning renforcement 1
+3 learning reinforcement learning 1
+2 learning reinforcement 1
+3 machine learning reinforcement 1
+3 type machine learning 1
+2 type machine 1
+3 patterns type machine 1
+2 patterns type 1
+1 patterns 1
+3 summarize patterns type 1
+2 summarize patterns 1
+1 summarize 1
+3 plaster summarize patterns 1
+2 plaster summarize 1
+1 plaster 1
+3 example plaster summarize 1
+2 example plaster 1
+3 data example plaster 1
+2 data example 1
+3 data data example 1
+3 data data data 1
+3 learning label data 1
+2 learning label 1
+3 unsupervised learning label 1
+3 unsupervised learning unsupervised 1
+3 label unsupervised learning 1
+2 label unsupervised 1
+3 called label unsupervised 1
+2 called label 1
+3 output called label 1
+2 output called 1
+3 tell output called 1
+2 tell output 1
+1 tell 1
+3 instance tell output 1
+2 instance tell 1
+3 learning instance tell 1
+2 learning instance 1
+3 supervised learning instance 1
+3 called supervised learning 1
+2 called supervised 1
+3 corresponding called supervised 1
+2 corresponding called 1
+3 try corresponding called 1
+2 try corresponding 1
+3 observation try corresponding 1
+2 observation try 1
+3 observation observation try 1
+2 observation observation 1
+3 model observation observation 1
+2 model observation 1
+3 build model observation 1
+2 build model 1
+1 build 1
+3 system build model 1
+2 system build 1
+1 system 1
+3 learning system build 1
+2 learning system 1
+3 machine learning system 1
+3 output machine learning 1
+2 output machine 1
+3 corresponding output machine 1
+3 instance input corresponding 1
+2 instance input 1
+3 everyday instance input 1
+2 everyday instance 1
+1 everyday 1
+3 suffer everyday instance 1
+2 suffer everyday 1
+1 suffer 1
+3 output suffer everyday 1
+2 output suffer 1
+3 corresponding output suffer 1
+3 comprised input corresponding 1
+2 comprised input 1
+1 comprised 1
+3 data comprised input 1
+2 data comprised 1
+3 data data comprised 1
+3 learning data data 1
+2 learning data 1
+3 suicide learning data 1
+2 suicide learning 1
+1 suicide 1
+3 learning suicide learning 1
+2 learning suicide 1
+3 supervised learning suicide 1
+3 machine learning supervised 1
+3 broad types machine 1
+2 broad types 1
+1 broad 1
+3 learning broad types 1
+2 learning broad 1
+3 machine learning broad 1
+3 introduce types machine 1
+2 introduce types 1
+3 model introduce types 1
+2 model introduce 1
+3 introduction model introduce 1
+2 introduction model 1
+1 introduction 1
+3 model introduction model 1
+2 model introduction 1
+3 start model introduction 1
+3 sylvia start model 1
+2 sylvia start 1
+1 sylvia 1
+3 morning sylvia start 1
+2 morning sylvia 1
+1 morning 1
+3 stop morning sylvia 1
+2 stop morning 1
+1 stop 1

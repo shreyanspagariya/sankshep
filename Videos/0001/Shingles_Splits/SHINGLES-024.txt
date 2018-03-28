@@ -1,0 +1,53 @@
+1 agent 3
+1 particular 2
+1 environment 2
+1 discontinued 1
+2 agent discontinued 1
+3 time agent discontinued 1
+2 time agent 1
+1 time 1
+3 particular time agent 1
+2 particular time 1
+3 penalty particular time 1
+2 penalty particular 1
+1 penalty 1
+3 water penalty particular 1
+2 water penalty 1
+1 water 1
+3 negatively water penalty 1
+2 negatively water 1
+1 negatively 1
+3 candy negatively water 1
+2 candy negatively 1
+1 candy 1
+3 positively candy negatively 1
+2 positively candy 1
+1 positively 1
+3 agent positively candy 1
+2 agent positively 1
+3 watch agent positively 1
+2 watch agent 1
+1 watch 1
+3 goes watch agent 1
+2 goes watch 1
+1 goes 1
+3 environment goes watch 1
+2 environment goes 1
+3 action environment goes 1
+2 action environment 1
+1 action 1
+3 takes action environment 1
+2 takes action 1
+1 takes 1
+3 agent takes action 1
+2 agent takes 1
+3 particular agent takes 1
+2 particular agent 1
+3 based particular agent 1
+2 based particular 1
+1 based 1
+3 environment based particular 1
+2 environment based 1
+3 impact environment based 1
+2 impact environment 1
+1 impact 1

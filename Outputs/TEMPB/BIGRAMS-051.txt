@@ -1,0 +1,19 @@
+<ul>
+<li>Hypothesis space</li>
+<li>Linear function</li>
+<li>Space set</li>
+<li>Function hypothesis</li>
+<li>Decision tree</li>
+<li>Function decision</li>
+<li>Functions</li>
+<li>Talk</li>
+<li>Concept</li>
+<li>Value</li>
+<li>Feature</li>
+<li>Describe</li>
+<li>Features</li>
+<li>Example</li>
+<li>Comprise</li>
+<li>Candidate</li>
+<li>Network</li>
+</ul>

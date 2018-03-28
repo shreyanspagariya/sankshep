@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "based on the data in this case you can be",
+          "confidence": 0.966661
+        }
+      ]
+    }
+  ]
+}

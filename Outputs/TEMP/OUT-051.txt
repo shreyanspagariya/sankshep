@@ -1,0 +1,88 @@
+{
+  "name": "2490071443972696310",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "progressPercent": 100,
+    "startTime": "2017-11-02T10:23:57.780097Z",
+    "lastUpdateTime": "2017-11-02T10:24:35.517649Z"
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Gambia",
+            "confidence": 0.7360074
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " linear function in terms of death tributes the function can be a decision tree which we will talk about in week 2 it can be a linear function it can be a decision tree all the time be other functions like multivariate linear function as shown in the picture of Singulair perceptron which is that unit of a doodle Network which people talk about later in this class or it can be multi layer neural network which will also cover later",
+            "confidence": 0.96285665
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Grant",
+            "confidence": 0.62928987
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " given the type of function the hypothesis space is the set of candidate outputs that you can get candidate functions that you get supervised learning you can think of that is a set of functions which comprise the hypothesis space and you want to find out that function from the hypothesis space which is most probable given your training example",
+            "confidence": 0.96443504
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " again we will talk about this in detail later",
+            "confidence": 0.9070426
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " so if it does look at the basic terminology we have some features which are distinct traits or attributes that are used to describe each instance and the set of features that comprise the feature Vector the instant space is a set of possible objects that you can describe by the feature on each example has the value of the input and the value of the output",
+            "confidence": 0.9552675
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " concept suppose you're trying to find out",
+            "confidence": 0.7890834
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " is this",
+            "confidence": 0.99010754
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the object is the subject an image of a face so the concept is a subset of a",
+            "confidence": 0.83842725
+          }
+        ]
+      }
+    ],
+    "totalBilledTime": "120s"
+  }
+}

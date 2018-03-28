@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "not only the short-term reward is optimized by the overall utility of the agent over its entire time Horizon is optimized",
+          "confidence": 0.94607264
+        }
+      ]
+    }
+  ]
+}

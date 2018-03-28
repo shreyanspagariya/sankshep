@@ -1,0 +1,88 @@
+{
+  "name": "4517292332908993931",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "progressPercent": 100,
+    "startTime": "2017-11-02T10:23:29.450979Z",
+    "lastUpdateTime": "2017-11-02T10:24:04.533330Z"
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "transcript": "during the testing time you're only given so you like this you have many training examples for test you are given a test instant intestines.",
+            "confidence": 0.9299635
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " You're only given the bad news of the attributes said 1 to 7 and you have to how to put the corresponding White",
+            "confidence": 0.9017845
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " then why are the target feature discrete or continuous valued feature if my is a discrete value because such problem classification problem",
+            "confidence": 0.9096626
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " so why can be discrete valued or continuous value",
+            "confidence": 0.84397936
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " for example we can have a discrete valued feature like whether it will rain or not tomorrow such problems are called classification problems",
+            "confidence": 0.9478379
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " or we can have a discrete valued feature which given the symptoms of the patient",
+            "confidence": 0.92497385
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " predict whether a patient has a particular disease",
+            "confidence": 0.9722313
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " why do you have continuous valued featured then you call such problems regression",
+            "confidence": 0.88477266
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " suppose given the values of certain features you want to predict the price of a house so given the location of the house the floor area of the house the number of bedrooms and some search features you want to predict the price of the house which is a continuous by doodle real value number",
+            "confidence": 0.90023947
+          }
+        ]
+      }
+    ],
+    "totalBilledTime": "120s"
+  }
+}

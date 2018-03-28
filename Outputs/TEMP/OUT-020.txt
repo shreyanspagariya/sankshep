@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "you only have X",
+          "confidence": 0.9635784
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " we have different XXX 1X 2X and this is the data and the learning album",
+          "confidence": 0.92750996
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " bee produce clusters with group the state",
+          "confidence": 0.5546979
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " something from the bank based on the similarity of the items to each other we can find out certain groups among data so that is called",
+          "confidence": 0.93589467
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+discrete valued,valued feature,price house,predict price,features predict,classification discrete,continuous valued,feature discrete,value,patient,test,youre,
